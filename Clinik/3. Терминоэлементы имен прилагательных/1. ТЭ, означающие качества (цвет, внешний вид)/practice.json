@@ -1,0 +1,902 @@
+[
+  {
+    "type": "TEST",
+    "question": "Что означает термин 'Chlorophyllus'?",
+    "answer1": "зелёный пигмент растений",
+    "answer2": "красный пигмент растений",
+    "answer3": "жёлтый пигмент растений",
+    "answer4": "белый пигмент растений",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин 'chlorosis'?",
+    "answer1": "анемия с бледной, зелёной окраской кожи",
+    "answer2": "красная сыпь",
+    "answer3": "жёлтая пигментация кожи",
+    "answer4": "синеватая окраска кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин 'chromaticus'?",
+    "answer1": "окрашенный, цветной",
+    "answer2": "белый",
+    "answer3": "чёрный",
+    "answer4": "зелёный",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что обозначает термин 'chromhidrosis'?",
+    "answer1": "выделение окрашенного пота",
+    "answer2": "анемия",
+    "answer3": "синюшность кожи",
+    "answer4": "желтуха",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин 'achromasia'?",
+    "answer1": "отсутствие окраски тканей или клеток",
+    "answer2": "появление красного цвета",
+    "answer3": "зелёная пигментация",
+    "answer4": "синеватая окраска кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин 'cyanosis'?",
+    "answer1": "синеватая окраска кожи и слизистых",
+    "answer2": "красная сыпь",
+    "answer3": "жёлтая пигментация кожи",
+    "answer4": "белая бледность",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин 'Cyanopsia'?",
+    "answer1": "восприятие окружающего мира с синим оттенком",
+    "answer2": "восприятие мира красным цветом",
+    "answer3": "восприятие мира жёлтым цветом",
+    "answer4": "восприятие мира белым цветом",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что обозначает термин 'erythroderma'?",
+    "answer1": "покраснение кожи",
+    "answer2": "побеление кожи",
+    "answer3": "синюшность кожи",
+    "answer4": "желтушность кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин 'erythropoiesis'?",
+    "answer1": "образование красных кровяных клеток",
+    "answer2": "образование белых кровяных клеток",
+    "answer3": "образование жёлтых пигментов",
+    "answer4": "образование синих пигментов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин 'leucaemia'?",
+    "answer1": "белокровие",
+    "answer2": "заболевание с увеличением красных клеток",
+    "answer3": "заболевание с синюшностью кожи",
+    "answer4": "заболевание с жёлтой окраской",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин 'leukopenia'?",
+    "answer1": "уменьшение количества белых кровяных клеток",
+    "answer2": "увеличение количества красных кровяных клеток",
+    "answer3": "синюшность кожи",
+    "answer4": "обесцвечивание кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин 'melanoma'?",
+    "answer1": "опухоль, содержащая тёмный пигмент",
+    "answer2": "опухоль, содержащая белый пигмент",
+    "answer3": "опухоль, содержащая красный пигмент",
+    "answer4": "опухоль, содержащая жёлтый пигмент",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин 'melanuria'?",
+    "answer1": "появление тёмного пигмента в моче",
+    "answer2": "наличие белого пигмента в моче",
+    "answer3": "наличие красного пигмента в моче",
+    "answer4": "наличие жёлтого пигмента в моче",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин 'xanthoderma'?",
+    "answer1": "жёлтая окраска кожи",
+    "answer2": "красная сыпь",
+    "answer3": "синяя окраска кожи",
+    "answer4": "белая бледность",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин 'xanthopsia'?",
+    "answer1": "восприятие окружающего мира с жёлтым оттенком",
+    "answer2": "восприятие синим оттенком",
+    "answer3": "восприятие красным оттенком",
+    "answer4": "восприятие белым цветом",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин 'glaucoma'?",
+    "answer1": "повышение внутриглазного давления, при котором зрачок приобретает голубовато-серый оттенок",
+    "answer2": "воспаление радужки глаза",
+    "answer3": "снижение слуха",
+    "answer4": "изменение формы роговицы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин 'glaucopsia'?",
+    "answer1": "восприятие окружающего мира с голубовато-серым оттенком",
+    "answer2": "восприятие мира красным оттенком",
+    "answer3": "восприятие мира жёлтым оттенком",
+    "answer4": "восприятие мира белым цветом",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин 'poliomyelitis'?",
+    "answer1": "воспаление серого вещества спинного мозга",
+    "answer2": "воспаление белого вещества головного мозга",
+    "answer3": "воспаление мышечной ткани",
+    "answer4": "воспаление костного мозга",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что обозначает термин 'polioencephalitis'?",
+    "answer1": "воспаление серого вещества головного мозга",
+    "answer2": "воспаление белого вещества головного мозга",
+    "answer3": "воспаление мышечной ткани",
+    "answer4": "воспаление костного мозга",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин 'porphyria'?",
+    "answer1": "нарушение обмена пигментов, сопровождающееся пурпурной окраской мочи и кожи",
+    "answer2": "заболевание с синюшной окраской кожи",
+    "answer3": "заболевание, связанное с жёлтым пигментом",
+    "answer4": "заболевание, сопровождающееся потерей меланина",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин \"\"uroporphyrinuria\"\"?",
+    "answer1": "выделение пурпурного пигмента с мочой",
+    "answer2": "выделение белого пигмента с мочой",
+    "answer3": "выделение жёлтого пигмента с мочой",
+    "answer4": "выделение синего пигмента с мочой",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что обозначает термин \"\"eosinophilus\"\"?",
+    "answer1": "клетка крови с розовым окрашиванием гранул",
+    "answer2": "клетка крови с синим окрашиванием",
+    "answer3": "клетка крови с жёлтым окрашиванием",
+    "answer4": "клетка крови без окраски",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин \"\"eosinophilicus\"\"?",
+    "answer1": "клетка или структура, окрашивающаяся розовым (эозином)",
+    "answer2": "клетка или структура, окрашивающаяся синим",
+    "answer3": "клетка или структура, окрашивающаяся жёлтым",
+    "answer4": "клетка или структура, не окрашивающаяся",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин \"\"argyria\"\"?",
+    "answer1": "серебристо-серая окраска кожи при отложении солей серебра",
+    "answer2": "пожелтение кожи из-за билирубина",
+    "answer3": "покраснение кожи при воспалении",
+    "answer4": "синюшная окраска кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что обозначает термин \"\"argyrosis\"\"?",
+    "answer1": "патологическое отложение серебра в тканях",
+    "answer2": "патологическое отложение золота",
+    "answer3": "патологическое отложение меди",
+    "answer4": "патологическое отложение железа",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин \"\"aurotherapia\"\"?",
+    "answer1": "метод медикаментозного лечения, основанный на применении препаратов золота",
+    "answer2": "метод медикаментозного лечения, основанный на применении препаратов серебра",
+    "answer3": "метод медикаментозного лечения, основанный на применении препаратов меди",
+    "answer4": "метод медикаментозного лечения, основанный на применении препаратов бария",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин \"\"Staphylococcus aureus\"\"?",
+    "answer1": "золотистый стафилококк",
+    "answer2": "красный стафилококк",
+    "answer3": "белый стафилококк",
+    "answer4": "синий стафилококк",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин \"\"phaeochromocytoma\"\"?",
+    "answer1": "опухоль мозгового слоя надпочечников тёмно-бурого цвета",
+    "answer2": "опухоль коры надпочечников красного цвета",
+    "answer3": "опухоль коры надпочечников жёлтого цвета",
+    "answer4": "опухоль мозгового слоя надпочечников белого цвета",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что обозначает термин \"\"phaeomelaninum\"\"?",
+    "answer1": "тёмный или бурый пигмент кожи и волос",
+    "answer2": "красный пигмент кожи",
+    "answer3": "жёлтый пигмент кожи",
+    "answer4": "белый пигмент кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин \"\"livor mortis\"\"?",
+    "answer1": "трупное пятно синевато-серого цвета",
+    "answer2": "трупное окоченение",
+    "answer3": "обезвоживание тканей после смерти",
+    "answer4": "отложение кальция в коже",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин \"\"lividitas\"\"?",
+    "answer1": "синевато-серый оттенок кожи, трупное или патологическое",
+    "answer2": "покраснение кожи",
+    "answer3": "жёлтая окраска кожи",
+    "answer4": "бледность кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  }
+]

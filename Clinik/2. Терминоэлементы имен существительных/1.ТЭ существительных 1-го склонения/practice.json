@@ -1,0 +1,407 @@
+[
+  {
+    "type": "QUESTION",
+    "Question": "Образуйте термин: bio- + -logia ",
+    "answer1": "biologia",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Образуйте термин: aden- + -oma: ",
+    "answer1": "adenoma",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Образуйте термин: gloss- + -itis: ",
+    "answer1": "glossitis",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Образуйте термин: sial- + -adenitis:",
+    "answer1": "sialadenitis",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Образуйте термин: mast- + -algia: ",
+    "answer1": "mastalgia",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Образуйте термин: phleb- + -ectasia: ",
+    "answer1": "phlebectasia",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Образуйте термин: myel- + -itis: myelitis ",
+    "answer1": "myelitis",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Образуйте термин: dacry- + -cystitis: ",
+    "answer1": "dacryocystitis",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Образуйте термин: thyr- + -ectomia: ",
+    "answer1": "thyreoidectomy",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Образуйте термин: colp- + -scopia: ",
+    "answer1": "colposcopia",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Что означает «glossitis», (itis – воспаление) ?",
+    "answer1": "воспаление языка",
+    "answer2": "воспаление слюны",
+    "answer": "воспаление вены",
+    "answer4": "воспаление слизистой",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Что означает «urina»? ",
+    "answer1": "моча",
+    "answer2": "кровь",
+    "answer": "слеза",
+    "answer4": "кожа",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Что означает «adenoma» (oma - опухоль) ? ",
+    "answer1": "опухоль из железы",
+    "answer2": "опухоль мышцы",
+    "answer": "опухоль вены",
+    "answer4": "опухоль  кости",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Что означает «dacryocystitis» (itis - воспаление) ? ",
+    "answer1": "воспаление слёзного мешка",
+    "answer2": "воспаление влагалища",
+    "answer": "воспаление молочной железы",
+    "answer4": "воспаление печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Что означает «phlebectasia» (ectasia - расширение) ?",
+    "answer1": "расширение вены",
+    "answer2": "расширение маточной трубы",
+    "answer": "расширение влагалища",
+    "answer4": "расширение клетки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Что означает «mastalgia» (algia - боль) ?",
+    "answer1": "боль в молочной железе",
+    "answer2": "боль влагалища",
+    "answer": "боль соска",
+    "answer4": "боль в руке",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Что означает «myelitis» (itis - воспаление) ?",
+    "answer1": "воспаление спинного мозга",
+    "answer2": "воспаление кости",
+    "answer": "воспаление мышцы",
+    "answer4": "воспаление кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Что означает «sialadenitis» (itis - воспаление) ?",
+    "answer1": "воспаление слюнной железы",
+    "answer2": "воспаление языка",
+    "answer": "воспаление глаза",
+    "answer4": "воспаление лёгкого",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Что означает «colposcopia» (scopia – инструментальный осмотр) ?",
+    "answer1": "осмотр влагалища",
+    "answer2": "осмотр языка",
+    "answer": "осмотр молочной железы",
+    "answer4": "осмотр слюнной железы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "Что означает «thyreoidectomia» (ectomia - удаление) ? ",
+    "answer1": "удаление щитовидной железы",
+    "answer2": "удаление молочной железы",
+    "answer": "удаление языка",
+    "answer4": "удаление почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "_____logia — наука о женском организме",
+    "answer1": "gynaec",
+    "answer2": "bio",
+    "answer": "morph",
+    "answer4": "gloss",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "_____oma — опухоль железы",
+    "answer1": "aden",
+    "answer2": "phleb",
+    "answer": "spondyl",
+    "answer4": "colp",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "_____itis — воспаление мозга (спинного или костного) ",
+    "answer1": "myel",
+    "answer2": "kerat",
+    "answer": "salping",
+    "answer4": "cyst",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "_____adenitis — воспаление слюнной железы ",
+    "answer1": "sial",
+    "answer2": "myel",
+    "answer": "cheil",
+    "answer4": "gnath",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "_____algia — боль в пузыре",
+    "answer1": "cyst",
+    "answer2": "pter",
+    "answer": "mel",
+    "answer4": "hist",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "_____ectasia — расширение вены ",
+    "answer1": "phleb",
+    "answer2": "aden",
+    "answer": "colp",
+    "answer4": "lopho",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "_____ectomia — удаление позвонка",
+    "answer1": "spondyl",
+    "answer2": "myel",
+    "answer": "gynaec",
+    "answer4": "mast",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "_____tomia — рассечение маточной трубы",
+    "answer1": "salping",
+    "answer2": "mast",
+    "answer": "cyst",
+    "answer4": "thyr",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "_____pathia — заболевание молочной железы",
+    "answer1": "mast",
+    "answer2": "kerat",
+    "answer": "phleb",
+    "answer4": "lepido",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "Question": "_____phobia — водобоязнь",
+    "answer1": "hydro",
+    "answer2": "gnath",
+    "answer": "salping",
+    "answer4": "phyto",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Дайте латинский синоним клиническому термину: adenoma",
+    "answer1": "tumor glandulae",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Дайте латинский синоним клиническому термину: mastalgia",
+    "answer1": "dolor mammae",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Дайте латинский синоним клиническому термину: colposcopia",
+    "answer1": "inspectio vaginae",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Дайте латинский синоним клиническому термину: sialadenitis",
+    "answer1": "inflammatio glandulae salivariae",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Дайте латинский синоним клиническому термину: dacryocystitis",
+    "answer1": "inflammatio sacci lacrimalis",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Дайте латинский синоним клиническому термину: glossotomia",
+    "answer1": "sectio linguae",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Дайте латинский синоним клиническому термину: phlebectasia",
+    "answer1": "dilatatio venae",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Дайте латинский синоним клиническому термину: myelitis",
+    "answer1": "inflammatio medullae",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Дайте латинский синоним клиническому термину: keratitis",
+    "answer1": "inflammatio corneae",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Дайте латинский синоним клиническому термину: salpingectomia",
+    "answer1": "excisio tubae uterinae",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Дайте латинский синоним клиническому термину: cytitis",
+    "answer1": "inflammatio cellulae",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Дайте латинский синоним клиническому термину: cystotomia",
+    "answer1": "sectio vesicae",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Дайте латинский синоним клиническому термину: mastitis",
+    "answer1": "inflammatio mammae",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Дайте латинский синоним клиническому термину: colpitis",
+    "answer1": "inflammatio vaginae",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "QUESTION",
+    "Question": "Дайте латинский синоним клиническому термину: keratopathia",
+    "answer1": "morbus corneae",
+    "answer2": "",
+    "answer": "",
+    "answer4": "",
+    "correctAnswer": "1"
+  }
+]

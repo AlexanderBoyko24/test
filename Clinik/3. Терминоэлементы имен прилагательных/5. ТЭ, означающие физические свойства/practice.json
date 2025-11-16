@@ -1,0 +1,227 @@
+[
+  {
+    "type": "TEST",
+    "question": "Что означает термин Hydrocephalia?",
+    "answer1": "скопление жидкости в голове",
+    "answer2": "воспаление головного мозга",
+    "answer3": "увеличение головы",
+    "answer4": "опухоль мозга",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Hydronephrosis?",
+    "answer1": "скопление жидкости в почке",
+    "answer2": "воспаление почки",
+    "answer3": "уменьшение почки",
+    "answer4": "опухоль почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Xeroderma?",
+    "answer1": "сухость кожи",
+    "answer2": "влажность кожи",
+    "answer3": "воспаление кожи",
+    "answer4": "шелушение кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Xerostomia?",
+    "answer1": "сухость во рту",
+    "answer2": "обильное слюноотделение",
+    "answer3": "воспаление слизистой",
+    "answer4": "жжение языка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Thermometria?",
+    "answer1": "измерение температуры",
+    "answer2": "потеря тепла",
+    "answer3": "измерение веса",
+    "answer4": "измерение роста",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Hyperthermia?",
+    "answer1": "повышение температуры тела",
+    "answer2": "понижение температуры тела",
+    "answer3": "нормальная температура",
+    "answer4": "потеря тепла",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Cryotherapia?",
+    "answer1": "лечение холодом",
+    "answer2": "лечение теплом",
+    "answer3": "лечение водой",
+    "answer4": "лечение светом",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Cryoglobulinaemia?",
+    "answer1": "наличие холодочувствительных белков в крови",
+    "answer2": "воспаление крови",
+    "answer3": "свертывание крови",
+    "answer4": "охлаждение крови",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Glycosuria?",
+    "answer1": "наличие глюкозы в моче",
+    "answer2": "отсутствие сахара в моче",
+    "answer3": "воспаление мочевого пузыря",
+    "answer4": "камни в почках",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Glucogenesis?",
+    "answer1": "образование глюкозы",
+    "answer2": "разрушение глюкозы",
+    "answer3": "усвоение глюкозы",
+    "answer4": "отсутствие глюкозы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Sclerosis?",
+    "answer1": "уплотнение или затвердение тканей",
+    "answer2": "размягчение тканей",
+    "answer3": "воспаление тканей",
+    "answer4": "истончение тканей",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Arteriosclerosis?",
+    "answer1": "затвердение стенок артерий",
+    "answer2": "расширение артерий",
+    "answer3": "воспаление артерий",
+    "answer4": "сужение артерий",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Barotrauma?",
+    "answer1": "повреждение тканей из-за давления",
+    "answer2": "воспаление под давлением",
+    "answer3": "снижение давления",
+    "answer4": "повышение температуры",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Pyrophobia?",
+    "answer1": "навязчивый и иррациональный страх перед огнём",
+    "answer2": "навязчивый и иррациональный страх перед водой",
+    "answer3": "навязчивый и иррациональный страх перед кровью",
+    "answer4": "навязчивый и иррациональный страх перед темнотой",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Pyrosis?",
+    "answer1": "жжение (изжога)",
+    "answer2": "озноб",
+    "answer3": "воспаление кожи",
+    "answer4": "потеря чувствительности",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Urolithiasis?",
+    "answer1": "образование камней в мочевых путях",
+    "answer2": "воспаление мочевого пузыря",
+    "answer3": "разрушение камней",
+    "answer4": "выделение мочи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Lithotripsia?",
+    "answer1": "дробление камней",
+    "answer2": "образование камней",
+    "answer3": "воспаление камней",
+    "answer4": "выведение камней",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Toxicosis?",
+    "answer1": "отравление",
+    "answer2": "воспаление",
+    "answer3": "инфекция",
+    "answer4": "опухоль",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Neurotoxinum?",
+    "answer1": "нервный яд",
+    "answer2": "кровяной яд",
+    "answer3": "мышечный яд",
+    "answer4": "желудочный яд",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Photosynthesis?",
+    "answer1": "образование органических веществ под действием света",
+    "answer2": "разрушение веществ под действием света",
+    "answer3": "накопление тепла",
+    "answer4": "отражение света",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Photophobia?",
+    "answer1": "боязнь света",
+    "answer2": "любовь к свету",
+    "answer3": "потеря зрения",
+    "answer4": "воспаление глаза",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Hydrotherapia?",
+    "answer1": "лечение водой",
+    "answer2": "лечение теплом",
+    "answer3": "лечение светом",
+    "answer4": "лечение воздухом",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Glycolysis?",
+    "answer1": "расщепление глюкозы",
+    "answer2": "расщепление крови",
+    "answer3": "расщепление мочи",
+    "answer4": "расщепление сустава",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Hypoglycaemia?",
+    "answer1": "пониженное содержание сахара в крови",
+    "answer2": "пониженное содержание крови",
+    "answer3": "пониженное содержание мочи",
+    "answer4": "пониженное содержание воды",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Thermoplegia?",
+    "answer1": "тепловой удар (паралич от перегревания)",
+    "answer2": "понижение температуры тела",
+    "answer3": "потеря чувствительности к холоду",
+    "answer4": "воспаление от тепла",
+    "correctAnswer": "1"
+  }
+]

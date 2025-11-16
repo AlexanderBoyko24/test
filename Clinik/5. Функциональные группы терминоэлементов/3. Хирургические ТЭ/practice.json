@@ -1,0 +1,407 @@
+[
+  {
+    "type": "TEST",
+    "question": "Что означает galactocele?",
+    "answer1": "киста молочной железы",
+    "answer2": "опущение желудка",
+    "answer3": "удаление селезёнки",
+    "answer4": "кровотечение",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает rectocele?",
+    "answer1": "выпячивание прямой кишки",
+    "answer2": "опущение почки",
+    "answer3": "удаление печени",
+    "answer4": "разрыв артерии",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает laryngocele?",
+    "answer1": "выпячивание гортани",
+    "answer2": "опущение матки",
+    "answer3": "удаление аппендикса",
+    "answer4": "кровотечение",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает cardiocentesis?",
+    "answer1": "пункция сердца",
+    "answer2": "операция свища",
+    "answer3": "удаление печени",
+    "answer4": "фиксация почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает cystocentesis?",
+    "answer1": "прокол мочевого пузыря",
+    "answer2": "операция свища",
+    "answer3": "опущение желудка",
+    "answer4": "разрыв артерии",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает laparocentesis?",
+    "answer1": "пункция брюшной полости",
+    "answer2": "удаление печени",
+    "answer3": "фиксация почки",
+    "answer4": "опущение почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает splenectomia?",
+    "answer1": "удаление селезёнки",
+    "answer2": "удаление желчного пузыря",
+    "answer3": "разрез желудка",
+    "answer4": "фиксация почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает mastectomia?",
+    "answer1": "удаление молочной железы",
+    "answer2": "удаление почки",
+    "answer3": "удаление печени",
+    "answer4": "операция свища",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает oophorectomia?",
+    "answer1": "удаление яичника",
+    "answer2": "удаление матки",
+    "answer3": "удаление почки",
+    "answer4": "фиксация желудка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает colpohysteropexia?",
+    "answer1": "фиксация матки через влагалище",
+    "answer2": "фиксация почки",
+    "answer3": "операция свища",
+    "answer4": "опущение желудка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает gastropexia?",
+    "answer1": "фиксация желудка",
+    "answer2": "фиксация печени",
+    "answer3": "фиксация матки",
+    "answer4": "опущение почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hepatopexia?",
+    "answer1": "фиксация печени",
+    "answer2": "фиксация почки",
+    "answer3": "фиксация сердца",
+    "answer4": "опущение желудка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает cheiloplastica?",
+    "answer1": "пластика губ",
+    "answer2": "пластика носа",
+    "answer3": "пластика век",
+    "answer4": "удаление печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает otoplastica?",
+    "answer1": "пластика уха",
+    "answer2": "пластика губ",
+    "answer3": "пластика век",
+    "answer4": "удаление почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает abdominoplastica?",
+    "answer1": "пластическая операция живота",
+    "answer2": "пластика носа",
+    "answer3": "пластика губ",
+    "answer4": "фиксация почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hysteroptosis?",
+    "answer1": "опущение матки",
+    "answer2": "опущение желудка",
+    "answer3": "опущение селезёнки",
+    "answer4": "удаление печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает colpoptosis?",
+    "answer1": "опущение влагалища",
+    "answer2": "опущение почки",
+    "answer3": "опущение селезёнки",
+    "answer4": "удаление печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hepatoptosis?",
+    "answer1": "опущение печени",
+    "answer2": "опущение желудка",
+    "answer3": "опущение почки",
+    "answer4": "удаление селезёнки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает enterorrhagia?",
+    "answer1": "кишечное кровотечение",
+    "answer2": "разрыв артерии",
+    "answer3": "удаление почки",
+    "answer4": "опущение желудка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает metrorrhagia?",
+    "answer1": "маточное кровотечение",
+    "answer2": "кровотечение из носа",
+    "answer3": "кровотечение желудка",
+    "answer4": "разрыв артерии",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает nephrorrhagia?",
+    "answer1": "кровотечение из почки",
+    "answer2": "кровотечение желудка",
+    "answer3": "кровотечение лёгких",
+    "answer4": "кровотечение носа",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает myorrhexis?",
+    "answer1": "разрыв мышцы",
+    "answer2": "разрез желудка",
+    "answer3": "удаление печени",
+    "answer4": "фиксация почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает urethrorhexis?",
+    "answer1": "разрыв уретры",
+    "answer2": "разрыв желудка",
+    "answer3": "опущение почки",
+    "answer4": "удаление печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает cardiorrhexis?",
+    "answer1": "разрыв сердца",
+    "answer2": "разрыв печени",
+    "answer3": "разрыв почки",
+    "answer4": "опущение желудка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает enterorrhaphia?",
+    "answer1": "сшивание кишечника",
+    "answer2": "сшивание мышцы",
+    "answer3": "фиксация почки",
+    "answer4": "опущение желудка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает arteriorrhaphia?",
+    "answer1": "наложение шва на артерию",
+    "answer2": "наложение шва на вену",
+    "answer3": "фиксация желудка",
+    "answer4": "опущение почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает myorrhaphia?",
+    "answer1": "сшивание мышцы",
+    "answer2": "сшивание кожи",
+    "answer3": "фиксация почки",
+    "answer4": "опущение желудка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает palatoschisis?",
+    "answer1": "расщепление нёба",
+    "answer2": "расщепление губы",
+    "answer3": "расщепление кости",
+    "answer4": "опущение почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает cheiloschisis?",
+    "answer1": "расщепление губы",
+    "answer2": "расщепление нёба",
+    "answer3": "расщепление позвоночника",
+    "answer4": "опущение желудка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает onychoschisis?",
+    "answer1": "расщепление ногтевых пластинок",
+    "answer2": "расщепление нёба",
+    "answer3": "расщепление губы",
+    "answer4": "опущение глаза",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает tracheostoma?",
+    "answer1": "искусственное отверстие в трахее",
+    "answer2": "свищ желудка",
+    "answer3": "свищ мочевого пузыря",
+    "answer4": "опущение почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает colostoma?",
+    "answer1": "искусственное отверстие ободочной кишки",
+    "answer2": "искусственное отверстие груди",
+    "answer3": "искусственное отверстие желудка",
+    "answer4": "опущение губ",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает cystostoma?",
+    "answer1": "искусственное отверстие мочевого пузыря",
+    "answer2": "искусственное отверстие желудка",
+    "answer3": "искусственное отверстие кишечника",
+    "answer4": "опущение почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает cholecystotomia?",
+    "answer1": "создание свища желчного пузыря",
+    "answer2": "создание свища желудка",
+    "answer3": "создание свища мочевого пузыря",
+    "answer4": "удаление печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает colostomia?",
+    "answer1": "создание свища ободочной кишки",
+    "answer2": "создание свища желудка",
+    "answer3": "создание свища мочевого пузыря",
+    "answer4": "удаление зуба",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает cystostomia?",
+    "answer1": "создание свища мочевого пузыря",
+    "answer2": "создание свища желудка",
+    "answer3": "создание свища кишечника",
+    "answer4": "опущение почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает laparotomia?",
+    "answer1": "операция вскрытия брюшной полости",
+    "answer2": "операция вскрытия грудной клетки",
+    "answer3": "операция вскрытия сердца",
+    "answer4": "опухоль мозга",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает thoracotomia?",
+    "answer1": "операция вскрытия грудной клетки",
+    "answer2": "операция вскрытия брюшной полости",
+    "answer3": "операция вскрытия сердца",
+    "answer4": "опущение почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает craniotomia?",
+    "answer1": "операция вскрытия черепа",
+    "answer2": "операция вскрытия груди",
+    "answer3": "операция вскрытия живота",
+    "answer4": "воспаление мышцы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает lipoma?",
+    "answer1": "жировая опухоль",
+    "answer2": "фиброма",
+    "answer3": "хондрома",
+    "answer4": "опухоль печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает fibroma?",
+    "answer1": "опухоль соединительной ткани",
+    "answer2": "жировая опухоль",
+    "answer3": "опухоль хряща",
+    "answer4": "свищ кишечника",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает chondroma?",
+    "answer1": "опухоль хрящевой ткани",
+    "answer2": "жировая опухоль",
+    "answer3": "опухоль соединительной ткани",
+    "answer4": "опухоль печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает haematoma?",
+    "answer1": "опухоль кровяная (синяк)",
+    "answer2": "жировая опухоль",
+    "answer3": "опухоль мозга",
+    "answer4": "опухоль почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает keratectomia?",
+    "answer1": "операция удаления части роговицы",
+    "answer2": "операция удаления миндалин",
+    "answer3": "операция вскрытия брюшной полости",
+    "answer4": "опущение почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает dacryocystectomia?",
+    "answer1": "удаление слёзного мешка",
+    "answer2": "удаление миндалин",
+    "answer3": "операция вскрытия брюшной полости",
+    "answer4": "опущение почки",
+    "correctAnswer": "1"
+  }
+]

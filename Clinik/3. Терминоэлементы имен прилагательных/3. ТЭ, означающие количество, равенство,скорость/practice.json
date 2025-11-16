@@ -1,0 +1,308 @@
+[
+  {
+    "type": "TEST",
+    "question": "Что означает термин Polydactylia?",
+    "answer1": "многопалость",
+    "answer2": "недостаточное количество пальцев",
+    "answer3": "одинаковые пальцы",
+    "answer4": "отсутствующие пальцы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Polyarthritis?",
+    "answer1": "воспаление многих суставов",
+    "answer2": "воспаление одного сустава",
+    "answer3": "воспаление половины суставов",
+    "answer4": "опухоль  суставов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Oligomenorrhoea?",
+    "answer1": "редкие менструации",
+    "answer2": "частые менструации",
+    "answer3": "отсутствующие менструации",
+    "answer4": "обильные менструации",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Oligospermia?",
+    "answer1": "мало спермы",
+    "answer2": "много спермы",
+    "answer3": "нормальное количество спермы",
+    "answer4": "отсутствует сперма",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Pancarditis?",
+    "answer1": "воспаление всего сердца",
+    "answer2": "воспаление половины сердца",
+    "answer3": "воспаление части сердца",
+    "answer4": " воспаление одного сля сердца",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Panplegia?",
+    "answer1": "паралич всех конечностей и туловища",
+    "answer2": "паралич одной половины тела",
+    "answer3": "паралич нижних конечностей",
+    "answer4": "паралич верхних конечностей",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Anisocytosis?",
+    "answer1": "клетки разного размера",
+    "answer2": "клетки одинакового размера",
+    "answer3": "половина клеток",
+    "answer4": "омертвение  клеток",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Anisomelia?",
+    "answer1": "конечности разной длины",
+    "answer2": "конечности одинаковой длины",
+    "answer3": "половина конечностей",
+    "answer4": "ампутация конечности",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Isotonia?",
+    "answer1": "равное напряжение",
+    "answer2": "неравное напряжение",
+    "answer3": "повышение давления",
+    "answer4": "снижение давления",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Isometria?",
+    "answer1": "сохранение длины мышцы при сокращении",
+    "answer2": "изменение длины мышцы",
+    "answer3": "полное расслабление мышцы",
+    "answer4": "утолщение мышцы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Homoeopathia?",
+    "answer1": "лечение подобным подобным",
+    "answer2": "лечение разным веществом",
+    "answer3": "лечение половинной дозой",
+    "answer4": "лечение отсутствующими веществами",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Homogenitas?",
+    "answer1": "однородность, одинаковый состав",
+    "answer2": "различие, разная структура",
+    "answer3": "неполный состав",
+    "answer4": "отсутствующая структура",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Heterochromia?",
+    "answer1": "различная окраска глаз",
+    "answer2": "одинаковая окраска глаз",
+    "answer3": "полная потеря цвета",
+    "answer4": "утолщение радужки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Heteromorphus?",
+    "answer1": "имеющий различную форму или строение",
+    "answer2": "имеющий одинаковую форму",
+    "answer3": "имеющий утолщённую структуру",
+    "answer4": "имеющий удлиненную структуру",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Bradycardia?",
+    "answer1": "медленное сердцебиение",
+    "answer2": "быстрое сердцебиение",
+    "answer3": "отсутствующее сердцебиение",
+    "answer4": "нормальное сердцебиение",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Bradypnoë?",
+    "answer1": "медленное дыхание",
+    "answer2": "быстрое дыхание",
+    "answer3": "отсутствующее дыхание",
+    "answer4": "нормальное дыхание",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Tachycardia?",
+    "answer1": "быстрое сердцебиение",
+    "answer2": "медленное сердцебиение",
+    "answer3": "отсутствующее сердцебиение",
+    "answer4": "нормальное сердцебиение",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Tachyphagia?",
+    "answer1": "быстрое питание или глотание",
+    "answer2": "медленное питание",
+    "answer3": "отсутствие аппетита",
+    "answer4": "нормальное питание",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Hemiplegia?",
+    "answer1": "паралич одной половины тела",
+    "answer2": "паралич всего тела",
+    "answer3": "паралич половины сердца",
+    "answer4": " паралич рук",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Hemiparesis?",
+    "answer1": "слабость или частичный паралич одной половины тела",
+    "answer2": "полный паралич обеих половин тела",
+    "answer3": "слабость только ног",
+    "answer4": "слабость только рук",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Nullipara?",
+    "answer1": "женщина, не рожавшая",
+    "answer2": "женщина, рожавшая один раз",
+    "answer3": "женщина, рожавшая много раз",
+    "answer4": "женщина, родишая близнецов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Polyneuropathia?",
+    "answer1": "поражение многих нервов",
+    "answer2": "поражение одного нерва",
+    "answer3": "поражение половины нервов",
+    "answer4": "поражение всех нервов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Polymyositis?",
+    "answer1": "воспаление многих мышц",
+    "answer2": "воспаление одной мышцы",
+    "answer3": "воспаление половины мышц",
+    "answer4": "воспаление всех мышц",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Panencephalitis?",
+    "answer1": "воспаление всего мозга",
+    "answer2": "воспаление части мозга",
+    "answer3": "воспаление половины мозга",
+    "answer4": "воспаление коры мозга",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Bradyphagia?",
+    "answer1": "медленное глотание",
+    "answer2": "быстрое глотание",
+    "answer3": "отсутствие глотания",
+    "answer4": "нормальное глотание",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  }
+]

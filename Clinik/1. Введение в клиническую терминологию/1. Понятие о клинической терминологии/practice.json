@@ -1,0 +1,212 @@
+[
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на русский язык: MORBUS CONTAGIŌSUS",
+    "correctAnswer": "1",
+    "answer1": "заразная болезнь",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на русский язык: MORBUS INFECTIŌSUS",
+    "correctAnswer": "1",
+    "answer1": "инфекционная болезнь",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на русский язык: INFARCTUS RENIS",
+    "correctAnswer": "1",
+    "answer1": "инфаркт почки",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на русский язык: INSUFFICIENTIA VALVAE AORTAE",
+    "correctAnswer": "1",
+    "answer1": "недостаточность клапана аорты",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на русский язык: STENŌSIS ARTERIAE RENĀLIS",
+    "correctAnswer": "1",
+    "answer1": "стеноз почечной артерии",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на русский язык: SCLERŌSIS DISSEMINĀTA",
+    "correctAnswer": "1",
+    "answer1": "рассеянный склероз",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на русский язык: SCLERŌSIS ARTERIĀRUM CORONARIĀRUM CORDIS",
+    "correctAnswer": "1",
+    "answer1": "склероз коронарных артерий сердца",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на русский язык: SYNDRŎMUM INSUFFICIENTIAE HEPATĬCAE",
+    "correctAnswer": "1",
+    "answer1": "синдром печеночной недостаточности",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на русский язык: SYNDRŎMUM NERVI OCCIPITĀLIS MINŌRIS",
+    "correctAnswer": "1",
+    "answer1": "синдром малого затылочного нерва",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на русский язык: RUPTŪRA UTERI ",
+    "correctAnswer": "1",
+    "answer1": "разрыв матки ",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на русский язык: FRACTŪRA BASIS CRANII",
+    "correctAnswer": "1",
+    "answer1": "перелом основания черепа",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на русский язык: ANAMNĒSIS MORBI",
+    "correctAnswer": "1",
+    "answer1": "анамнез болезни",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на русский язык: ANAMNĒSIS VITAE",
+    "correctAnswer": "1",
+    "answer1": "анамнез жизни",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на русский язык: CASUS EXTRAORDINARIUS",
+    "correctAnswer": "1",
+    "answer1": "необычный случай",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на русский язык: CASUS ORDINARIUS",
+    "correctAnswer": "1",
+    "answer1": "обычный случай",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на русский язык: INFARCTUS HEPATIS",
+    "correctAnswer": "1",
+    "answer1": "инфаркт печени",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на латинский язык: ИШЕМИЧЕСКАЯ БОЛЕЗНЬ СЕРДЦА",
+    "correctAnswer": "1",
+    "answer1": "morbus ischaemicus cordis",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на латинский язык: ОСТРЫЙ ИНФАРКТ МИОКАРДА",
+    "correctAnswer": "1",
+    "answer1": "infarctus acutus myocardii ",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на латинский язык: МОЗГОВОЙ ИНСУЛЬТ",
+    "correctAnswer": "1",
+    "answer1": "insultus cerebralis",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на латинский язык: ПЕРЕЛОМ ШЕЙКИ БЕДРЕННОЙ КОСТИ",
+    "correctAnswer": "1",
+    "answer1": "fractura colli femoris",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на латинский язык: НЕДОСТАТОЧНОСТЬ МИТРАЛЬНОГО КЛАПАНА",
+    "correctAnswer": "1",
+    "answer1": "insufficientia valvae mitralis",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на латинский язык: ПОРОК СЕРДЦА",
+    "correctAnswer": "1",
+    "answer1": "vitium cordis",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на латинский язык: ОСТРАЯ НЕДОСТАТОЧНОСТЬ КЛАПАНА",
+    "correctAnswer": "1",
+    "answer1": "insufficientia acuta valvae ",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на латинский язык: ПОПЕРЕЧНЫЙ ПЕРЕЛОМ ГОЛЕНИ",
+    "correctAnswer": "1",
+    "answer1": "fractura transversa cruris",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": " Переведите сложный термин на латинский язык: РАЗРЫВ СВЯЗОК ПЕЧЕНИ",
+    "correctAnswer": "1",
+    "answer1": "ruptura ligamentorum hepatis",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на латинский язык: ОСТРАЯ ПОЧЕЧНАЯ НЕДОСТАТОЧНОСТЬ",
+    "correctAnswer": "1",
+    "answer1": "insufficientia renalis acuta",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на латинский язык: СКЛЕРОЗ СОСУДОВ ГОЛОВНОГО МОЗГА",
+    "correctAnswer": "1",
+    "answer1": "sclerosis vasorum encephali",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на латинский язык: СУЖЕНИЕ ПИЩЕВОДА",
+    "correctAnswer": "1",
+    "answer1": "stenosis oesophagi",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на латинский язык: СУЖЕНИЕ ПИЛОРИЧЕСКОЙ ЧАСТИ ЖЕЛУДКА",
+    "correctAnswer": "1",
+    "answer1": "stenosis partis pyloricae gastris",
+    "": ""
+  },
+  {
+    "type": "QUESTION",
+    "question": "Переведите сложный термин на латинский язык: СУЖЕНИЕ ТРАХЕИ",
+    "correctAnswer": "1",
+    "answer1": "stenosis tracheae",
+    "": ""
+  }
+]

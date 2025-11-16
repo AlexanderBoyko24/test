@@ -1,0 +1,497 @@
+[
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к inflammatio pulmonum",
+    "answer1": "pneumonia",
+    "answer2": "pneumonectomia",
+    "answer3": "pneumatocardia",
+    "answer4": "pneumorrhagia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к inflammatio hepatis",
+    "answer1": "hepatitis",
+    "answer2": "hepatalgia",
+    "answer3": "hepatosis",
+    "answer4": "hepatectomia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к inflammatio renis",
+    "answer1": "nephritis",
+    "answer2": "nephrosis",
+    "answer3": "nephralgia",
+    "answer4": "nephrolithiasis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к inflammatio gastris",
+    "answer1": "gastritis",
+    "answer2": "gastrosis",
+    "answer3": "gastrodynia",
+    "answer4": "gastrectomia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к inflammatio intestini",
+    "answer1": "enteritis",
+    "answer2": "enterosis",
+    "answer3": "ilealgia",
+    "answer4": "colitis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к inflammatio lienis",
+    "answer1": "splenitis",
+    "answer2": "splenomegalia",
+    "answer3": "splenosis",
+    "answer4": "splenalgia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к inflammatio ovarii",
+    "answer1": "oophoritis",
+    "answer2": "oophorectomia",
+    "answer3": "oophoralgia",
+    "answer4": "salpingitis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к inflammatio cutis",
+    "answer1": "dermatitis",
+    "answer2": "dermographia",
+    "answer3": "dermodynia",
+    "answer4": "dermatosis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к inflammatio nervi",
+    "answer1": "neuritis",
+    "answer2": "neuroma",
+    "answer3": "neuralgia",
+    "answer4": "neurolysis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к dolor musculorum",
+    "answer1": "myalgia",
+    "answer2": "arthralgia",
+    "answer3": "neuralgia",
+    "answer4": "pleurodynia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к dolor articulationis",
+    "answer1": "arthralgia",
+    "answer2": "myalgia",
+    "answer3": "nephralgia",
+    "answer4": "chondritis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к dolor capitis",
+    "answer1": "cephalalgia",
+    "answer2": "bradycephalia",
+    "answer3": "encephalitis",
+    "answer4": "craniotomia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к dolor nervi",
+    "answer1": "neuralgia",
+    "answer2": "neuritis",
+    "answer3": "nephrosis",
+    "answer4": "myelitis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к tumor glandulae mammae",
+    "answer1": "mastoma",
+    "answer2": "mastitis",
+    "answer3": "mastalgia",
+    "answer4": "mastoptosis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к tumor hepatis",
+    "answer1": "hepatoma",
+    "answer2": "hepatalgia",
+    "answer3": "hepatitis",
+    "answer4": "hepatopexia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к tumor ossis",
+    "answer1": "osteoma",
+    "answer2": "osteitis",
+    "answer3": "ostealgia",
+    "answer4": "osteolysis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к tumor cartilaginis",
+    "answer1": "chondroma",
+    "answer2": "chondritis",
+    "answer3": "chondrodynia",
+    "answer4": "chondrosis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к paralysis  corporis",
+    "answer1": "panplegia",
+    "answer2": "monoplegia",
+    "answer3": "diploplegia",
+    "answer4": "paraplegia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к paralysis musculi oculi",
+    "answer1": "ophthalmoplegia",
+    "answer2": "blepharoplegia",
+    "answer3": "keratopathia",
+    "answer4": "retinopathia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к dilatatio venae",
+    "answer1": "phlebectasia",
+    "answer2": "phlebitis",
+    "answer3": "phlebostenosis",
+    "answer4": "phlebolithiasis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к morbus cordis",
+    "answer1": "cardiopathia",
+    "answer2": "cardiorrhaphia",
+    "answer3": "cardioplegia",
+    "answer4": "pericardium",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к morbus hepatis",
+    "answer1": "hepatopathia",
+    "answer2": "hepatectasia",
+    "answer3": "hepatolysis",
+    "answer4": "cholecystitis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к morbus renum",
+    "answer1": "nephropathia",
+    "answer2": "nephroptosis",
+    "answer3": "nephrectomia",
+    "answer4": "pyelitis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к morbus ventriculi",
+    "answer1": "gastropathia",
+    "answer2": "gastrectasia",
+    "answer3": "gastrorrhagia",
+    "answer4": "duodenitis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к morbus cutis",
+    "answer1": "dermatopathia",
+    "answer2": "dermatomycosis",
+    "answer3": "dermatitis",
+    "answer4": "epidermolysis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к morbus cerebri",
+    "answer1": "encephalopathia",
+    "answer2": "encephalomalacia",
+    "answer3": "meningitis",
+    "answer4": "myelitis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к excisio appendicis",
+    "answer1": "appendectomia",
+    "answer2": "appendotomia",
+    "answer3": "appendodynia",
+    "answer4": "appendosclerosis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к excisio tonsillae",
+    "answer1": "tonsillectomia",
+    "answer2": "tonsillitis",
+    "answer3": "tonsilloblastica",
+    "answer4": "tonsillodynia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к excisio mammae",
+    "answer1": "mastectomia",
+    "answer2": "masthopathia",
+    "answer3": "mastodynia",
+    "answer4": "masthoplastica",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к excisio hepatis",
+    "answer1": "hepatectomia",
+    "answer2": "hepatopathia",
+    "answer3": "hepatodynia",
+    "answer4": "hepatoplastica",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к excisio renis",
+    "answer1": "nephrectomia",
+    "answer2": "nephropathia",
+    "answer3": "nephrodynia",
+    "answer4": "nephroplastica",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к excisio vesicae urinariae",
+    "answer1": "cystectomia",
+    "answer2": "cystitis",
+    "answer3": "cystodynia",
+    "answer4": "cystoplastica",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к excisio ovarii",
+    "answer1": "oophorectomia",
+    "answer2": "oophoritis",
+    "answer3": "oophorodynia",
+    "answer4": "oophoroplastica",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к curatio morbi hepatis",
+    "answer1": "hepatotherapia",
+    "answer2": "hepatopathia",
+    "answer3": "hepatodynia",
+    "answer4": "hepatectomia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к curatio morbi cordis",
+    "answer1": "cardiotherapia",
+    "answer2": "cardiopathia",
+    "answer3": "cardiodynia",
+    "answer4": "cardiomegalia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к curatio morbi pulmonum",
+    "answer1": "pneumotherapia",
+    "answer2": "pneumopathia",
+    "answer3": "pneumodynia",
+    "answer4": "pneumonectomia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к curatio morbi renum",
+    "answer1": "nephrotherapia",
+    "answer2": "nephropathia",
+    "answer3": "nephrodynia",
+    "answer4": "nephrectomia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к curatio morbi gastris",
+    "answer1": "gastrotherapia",
+    "answer2": "gastropathia",
+    "answer3": "gastrodynia",
+    "answer4": "gastrectomia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к calculus renum",
+    "answer1": "nephrolithiasis",
+    "answer2": "nephritis",
+    "answer3": "nephroptosis",
+    "answer4": "nephrectomia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к calculus vesicae urinariae",
+    "answer1": "cystolithiasis",
+    "answer2": "cystitis",
+    "answer3": "cystectomia",
+    "answer4": "cystodynia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к calculus vesicae felleae",
+    "answer1": "cholelithiasis",
+    "answer2": "cholecystitis",
+    "answer3": "cholecystectomia",
+    "answer4": "cholecystodynia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к calculus ductus pancreatici",
+    "answer1": "pancreatolithiasis",
+    "answer2": "pancreatitis",
+    "answer3": "pancreatectomia",
+    "answer4": "pancreatodynia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к calculus glandulae salivariae",
+    "answer1": "sialolithiasis",
+    "answer2": "sialadenitis",
+    "answer3": "sialoadenectomia",
+    "answer4": "sialodynia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к haemorrhagia renum",
+    "answer1": "nephrrhagia",
+    "answer2": "nephritis",
+    "answer3": "nephrolithiasis",
+    "answer4": "nephrectomia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к haemorrhagia vesicae urinariae",
+    "answer1": "cystorrhagia",
+    "answer2": "cystitis",
+    "answer3": "cystolithiasis",
+    "answer4": "cystectomia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к haemorrhagia vesicae felleae",
+    "answer1": "cholecystorrhagia",
+    "answer2": "cholecystitis",
+    "answer3": "cholelithiasis",
+    "answer4": "cholecystectomia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к haemorrhagia uteri",
+    "answer1": "metrorrhagia",
+    "answer2": "menorrhagia",
+    "answer3": "endometritis",
+    "answer4": "hysterectomia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к haemorrhagia gingivarum",
+    "answer1": "gingivorrhagia",
+    "answer2": "gingivitis",
+    "answer3": "gingivectomia",
+    "answer4": "gingivodynia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к necrosis renis",
+    "answer1": "nephronecrosis",
+    "answer2": "nephritis",
+    "answer3": "nephrolithiasis",
+    "answer4": "nephrectomia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к necrosis hepatis",
+    "answer1": "hepatonecrosis",
+    "answer2": "hepatitis",
+    "answer3": "hepatectomia",
+    "answer4": "hepatolithiasis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к necrosis myocardii",
+    "answer1": "myocardionecrosis",
+    "answer2": "myocarditis",
+    "answer3": "cardioplegia",
+    "answer4": "cardiomyopathy",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к necrosis cutis",
+    "answer1": "dermonecrosis",
+    "answer2": "dermatitis",
+    "answer3": "dermectomia",
+    "answer4": "dermopathia",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к necrosis pancreatis",
+    "answer1": "pancreatonecrosis",
+    "answer2": "pancreatitis",
+    "answer3": "pancreatectomia",
+    "answer4": "pancreatolithiasis",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к ruptura myocardii",
+    "answer1": "cardiorrhexis",
+    "answer2": "myocarditis",
+    "answer3": "cardioplegia",
+    "answer4": "cardiomyopathy",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Выберите синоним к ruptura uteri",
+    "answer1": "metrorrhexis",
+    "answer2": "nephritis",
+    "answer3": "nephrolithiasis",
+    "answer4": "nephrectomia",
+    "correctAnswer": "1"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "type": "TEST",
+    "question": "Что означает термин Orthodontia?",
+    "answer1": "исправление положения зубов",
+    "answer2": "удаление зубов",
+    "answer3": "воспаление дёсен",
+    "answer4": "разрушение эмали",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Orthopaedia?",
+    "answer1": "раздел медицины, изучающий лечение деформаций костей и суставов",
+    "answer2": "наука о кровообращении",
+    "answer3": "раздел медицины о нервных болезнях",
+    "answer4": "лечение инфекций",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Neoplasma?",
+    "answer1": "новое образование (опухоль)",
+    "answer2": "разрушение тканей",
+    "answer3": "воспаление тканей",
+    "answer4": "доброкачественное рубцевание",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Neophobia?",
+    "answer1": "страх всего нового",
+    "answer2": "страх высоты",
+    "answer3": "страх животных",
+    "answer4": "страх людей",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Xenotransplantatio?",
+    "answer1": "пересадка органа от другого вида",
+    "answer2": "пересадка собственного органа",
+    "answer3": "пересадка от близнеца",
+    "answer4": "искусственный орган",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Xenophobia?",
+    "answer1": "страх или враждебность к чужому",
+    "answer2": "любовь к путешествиям",
+    "answer3": "страх животных",
+    "answer4": "боязнь темноты",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Mesarteritis?",
+    "answer1": "воспаление средней оболочки артерии",
+    "answer2": "воспаление внешней оболочки артерии",
+    "answer3": "воспаление внутренней оболочки артерии",
+    "answer4": "воспаление всех оболочек артерии",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Mesencephalon?",
+    "answer1": "средний мозг",
+    "answer2": "передний мозг",
+    "answer3": "задний мозг",
+    "answer4": "продолговатый мозг",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Opisthotonus?",
+    "answer1": "выгибание тела назад",
+    "answer2": "изгиб тела вперёд",
+    "answer3": "судороги конечностей",
+    "answer4": "расслабление мышц",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Cryptorchismus?",
+    "answer1": "неопущение яичка (скрытое)",
+    "answer2": "воспаление яичка",
+    "answer3": "опухоль яичка",
+    "answer4": "удвоение яичка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Cryptomenorrhoea?",
+    "answer1": "скрытое менструальное кровотечение",
+    "answer2": "полное отсутствие менструации",
+    "answer3": "обильные менструации",
+    "answer4": "болезненные менструации",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Endocarditis?",
+    "answer1": "воспаление внутренней оболочки сердца",
+    "answer2": "воспаление наружной оболочки сердца",
+    "answer3": "воспаление миокарда",
+    "answer4": "воспаление сосудов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Endometrium?",
+    "answer1": "внутренняя оболочка матки",
+    "answer2": "наружная оболочка матки",
+    "answer3": "мышечный слой матки",
+    "answer4": "шейка матки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Exophthalmus?",
+    "answer1": "выпячивание глазного яблока наружу",
+    "answer2": "западение глазного яблока",
+    "answer3": "воспаление глаза",
+    "answer4": "помутнение роговицы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Ectoderma?",
+    "answer1": "наружный зародышевый слой",
+    "answer2": "внутренний зародышевый слой",
+    "answer3": "средний зародышевый слой",
+    "answer4": "соединительная ткань",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  }
+]

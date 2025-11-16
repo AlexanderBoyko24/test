@@ -1,0 +1,632 @@
+[
+  {
+    "type": "TEST",
+    "question": "Что такое analgesia?",
+    "answer1": "уменьшение болевой чувствительности",
+    "answer2": "повышение давления",
+    "answer3": "воспаление кожи",
+    "answer4": "сращение костей",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое anaesthesia?",
+    "answer1": "обезболивание",
+    "answer2": "воспаление матки",
+    "answer3": "повышенная чувствительность",
+    "answer4": "подкожное введение",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое aphagia?",
+    "answer1": "невозможность глотания",
+    "answer2": "повышенное давление",
+    "answer3": "воспаление желудка",
+    "answer4": "выведение токсинов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое antidotum?",
+    "answer1": "противоядие",
+    "answer2": "обезболивание",
+    "answer3": "воспаление печени",
+    "answer4": "подкожное введение",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое antipyreticum?",
+    "answer1": "жаропонижающее средство (против жара)",
+    "answer2": "анемия",
+    "answer3": "повышенное давление",
+    "answer4": "покраснение кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое antitussicum?",
+    "answer1": "противокашлевое средство",
+    "answer2": "анемия",
+    "answer3": "повышенное давление",
+    "answer4": "воспаление печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое decalcificatio?",
+    "answer1": "уменьшение содержания кальция в костях",
+    "answer2": "воспаление кожи",
+    "answer3": "повышение давления",
+    "answer4": "сращение костей",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое dehydratatio?",
+    "answer1": "обезвоживание организма",
+    "answer2": "повышение давления",
+    "answer3": "анемия",
+    "answer4": "обезболивание",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое depigmentatio?",
+    "answer1": "обесцвечивание кожи",
+    "answer2": "повышение давления",
+    "answer3": "анемия",
+    "answer4": "воспаление печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое dysphagia?",
+    "answer1": "расстройство глотания",
+    "answer2": "анемия",
+    "answer3": "воспаление кожи",
+    "answer4": "подкожное введение",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое dyspepsia?",
+    "answer1": "расстройство пищеварения",
+    "answer2": "обезболивание",
+    "answer3": "повышенное давление",
+    "answer4": "сращение пальцев",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое dystonia?",
+    "answer1": "нарушение мышечного тонуса",
+    "answer2": "вывод токсинов",
+    "answer3": "анемия",
+    "answer4": "подкожное введение",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое endometrium?",
+    "answer1": "слизистая оболочка матки (внутренняя)",
+    "answer2": "наружная оболочка сердца",
+    "answer3": "подкожное введение",
+    "answer4": "жаропонижающее средство",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое endocardium?",
+    "answer1": "внутренняя оболочка сердца",
+    "answer2": "воспаление печени",
+    "answer3": "выведение токсинов",
+    "answer4": "анемия",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое endoscopia?",
+    "answer1": "внутреннее исследование органа",
+    "answer2": "сращение костей",
+    "answer3": "анемия",
+    "answer4": "обезболивание",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое epicardium?",
+    "answer1": "наружная оболочка сердца",
+    "answer2": "внутренняя оболочка сердца",
+    "answer3": "анемия",
+    "answer4": "вывод токсинов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое epidermis?",
+    "answer1": "верхний слой кожи",
+    "answer2": "внутренняя оболочка матки",
+    "answer3": "повышенное давление",
+    "answer4": "сращение пальцев",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое epiduralis?",
+    "answer1": "расположенный над твердой мозговой оболочкой",
+    "answer2": "внутри спинного мозга",
+    "answer3": "под мозговой оболочкой",
+    "answer4": "внутренняя оболочка сердца",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое exocytosis?",
+    "answer1": "выведение веществ из клетки",
+    "answer2": "внутривенное введение",
+    "answer3": "анемия",
+    "answer4": "повышение давления",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое extrauterinus?",
+    "answer1": "вне матки",
+    "answer2": "внутри матки",
+    "answer3": "анемия",
+    "answer4": "поверхностный слой",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое exophthalmicus?",
+    "answer1": "относящийся к выпячиванию глаза",
+    "answer2": "относящийся к внутренней оболочке глаза",
+    "answer3": "поверхностный",
+    "answer4": "внутриклеточный",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое infrapatellaris?",
+    "answer1": "под коленной чашечкой",
+    "answer2": "над коленной чашечкой",
+    "answer3": "между костями",
+    "answer4": "внутри сустава",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое infraclavicularis?",
+    "answer1": "подключичный",
+    "answer2": "надключичный",
+    "answer3": "внутрикожный",
+    "answer4": "внутрисердечный",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое infraorbitalis?",
+    "answer1": "подглазничный",
+    "answer2": "надглазничный",
+    "answer3": "внутрикожный",
+    "answer4": "поверхностный",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое intercostalis?",
+    "answer1": "межрёберный",
+    "answer2": "подключичный",
+    "answer3": "внутрикожный",
+    "answer4": "поверхностный",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое intercellularis?",
+    "answer1": "межклеточный",
+    "answer2": "внутриклеточный",
+    "answer3": "надклеточный",
+    "answer4": "поверхностный",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое intervertebralis?",
+    "answer1": "межпозвоночный",
+    "answer2": "внутрипозвоночный",
+    "answer3": "надпозвоночный",
+    "answer4": "подпозвоночный",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое intravenosus?",
+    "answer1": "внутривенный",
+    "answer2": "наружный",
+    "answer3": "поверхностный",
+    "answer4": "подкожный",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое intrauterinus?",
+    "answer1": "внутри матки",
+    "answer2": "вне матки",
+    "answer3": "под маткой",
+    "answer4": "над маткой",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое intradermalis?",
+    "answer1": "внутрикожный",
+    "answer2": "подкожный",
+    "answer3": "надкожный",
+    "answer4": "внешний",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое mesencephalon?",
+    "answer1": "средний мозг",
+    "answer2": "конечный мозг",
+    "answer3": "передний мозг",
+    "answer4": "спинной мозг",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое mesocardia?",
+    "answer1": "срединное положение сердца",
+    "answer2": "верхняя часть сердца",
+    "answer3": "нижняя часть сердца",
+    "answer4": "наружная оболочка сердца",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое invasio?",
+    "answer1": "проникновение возбудителей",
+    "answer2": "выведение токсинов",
+    "answer3": "повышение давления",
+    "answer4": "обезболивание",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое implantatio?",
+    "answer1": "вживление",
+    "answer2": "удаление",
+    "answer3": "обезболивание",
+    "answer4": "сращение костей",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое immobilisatio ?",
+    "answer1": "приведение в неподвижность ",
+    "answer2": "начало движения",
+    "answer3": "обезболивание",
+    "answer4": "размягчение костей",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое insanabilis ?",
+    "answer1": "неизлечимый",
+    "answer2": "уплотненный",
+    "answer3": "кровоточивый",
+    "answer4": "полный желчи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое hypertonia?",
+    "answer1": "повышенное давление",
+    "answer2": "пониженное давление",
+    "answer3": "среднее давление",
+    "answer4": "поверхностное давление",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое hyperaesthesia?",
+    "answer1": "повышенная чувствительность",
+    "answer2": "пониженная чувствительность",
+    "answer3": "отсутствие чувствительности",
+    "answer4": "поверхностная чувствительность",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое hyperglycaemia?",
+    "answer1": "повышение сахара в крови",
+    "answer2": "понижение сахара в крови",
+    "answer3": "средний уровень сахара",
+    "answer4": "отсутствие сахара в крови",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое hypotensia?",
+    "answer1": "пониженное давление",
+    "answer2": "повышенное давление",
+    "answer3": "среднее давление",
+    "answer4": "отсутствие давления",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое hypoplasia?",
+    "answer1": "недоразвитие органа",
+    "answer2": "переразвитие органа",
+    "answer3": "среднее развитие органа",
+    "answer4": "нормальное развитие органа",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое hypoglycaemia?",
+    "answer1": "понижение сахара в крови",
+    "answer2": "повышение сахара в крови",
+    "answer3": "средний уровень сахара",
+    "answer4": "отсутствие сахара в крови",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое metaplasia?",
+    "answer1": "превращение одного вида ткани в другой",
+    "answer2": "воспаление кожи",
+    "answer3": "уменьшение объёма органа",
+    "answer4": "повышение давления",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое metastasis?",
+    "answer1": "перенос патологического материала",
+    "answer2": "внутриорганное поражение",
+    "answer3": "локальное поражение",
+    "answer4": "поверхностное поражение",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое metabolismus?",
+    "answer1": " процесс изменения  веществ в организме",
+    "answer2": "зарождение эмбриона в организме",
+    "answer3": "выведение мочи из организма",
+    "answer4": "обмен жидкостями в организме",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое parametrium?",
+    "answer1": "околоматочная клетчатка",
+    "answer2": "воспаление матки",
+    "answer3": "наружная оболочка матки",
+    "answer4": "поверхностный слой матки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое parotitis?",
+    "answer1": "воспаление околоушной железы",
+    "answer2": "воспаление подчелюстной железы",
+    "answer3": "воспаление слюнной железы",
+    "answer4": "воспаление печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое parasternalis?",
+    "answer1": "возле грудины",
+    "answer2": "подключичный",
+    "answer3": "межреберный",
+    "answer4": "надкожный",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое perimetrium?",
+    "answer1": "серозная оболочка матки (наружная)",
+    "answer2": "слизистая оболочка носа",
+    "answer3": "внутренняя оболочка матки",
+    "answer4": "наружная оболочка сердца",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое periosteum?",
+    "answer1": "надкостница",
+    "answer2": "внутренний слой кости",
+    "answer3": "слизистая оболочка",
+    "answer4": "воспалённая оболочка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое pericardium?",
+    "answer1": "серозная оболочка сердца (наружная)",
+    "answer2": "внутренний слой сердца",
+    "answer3": "слизистая оболочка желудка",
+    "answer4": "воспалённая оболочка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое prognosis?",
+    "answer1": "предвидение течения болезни",
+    "answer2": "анализ крови",
+    "answer3": "обезболивание",
+    "answer4": "внутривенное введение",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое prophylaxis?",
+    "answer1": "профилактика заболевания",
+    "answer2": "лечение болезни",
+    "answer3": "обезболивание",
+    "answer4": "внутривенное введение",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое reanimatio?",
+    "answer1": "восстановление жизнедеятельности",
+    "answer2": "смерть",
+    "answer3": "обезболивание",
+    "answer4": "воспаление",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое refluxus?",
+    "answer1": "обратный ток",
+    "answer2": "прямой ток",
+    "answer3": "внутривенный поток",
+    "answer4": "поверхностный поток",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое regeneratio?",
+    "answer1": "восстановление тканей",
+    "answer2": "обезболивание",
+    "answer3": "выведение токсинов",
+    "answer4": "воспаление",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое subacutus?",
+    "answer1": "подострый",
+    "answer2": "очень острый",
+    "answer3": "хронический",
+    "answer4": "острый",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое subfebrilis?",
+    "answer1": "слегка повышенная температура",
+    "answer2": "очень высокая температура",
+    "answer3": "нормальная температура",
+    "answer4": "пониженная температура",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое subcutaneus?",
+    "answer1": "подкожный",
+    "answer2": "надкожный",
+    "answer3": "внутрикожный",
+    "answer4": "поверхностный",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое superacutus?",
+    "answer1": "чрезвычайно острый",
+    "answer2": "подострый",
+    "answer3": "хронический",
+    "answer4": "поверхностный",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое superficialis?",
+    "answer1": "поверхностный",
+    "answer2": "глубокий",
+    "answer3": "внутренний",
+    "answer4": "наружный",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое syndactylia?",
+    "answer1": "сращение пальцев",
+    "answer2": "разделение пальцев",
+    "answer3": "нарушение костей",
+    "answer4": "воспаление кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое synergismus?",
+    "answer1": "совместная деятельность органов",
+    "answer2": "отдельная деятельность органов",
+    "answer3": "независимая функция",
+    "answer4": "подавление функции",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое transfusio?",
+    "answer1": "переливание крови",
+    "answer2": "внутривенное введение лекарства",
+    "answer3": "выведение токсинов",
+    "answer4": "обезболивание",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое transplantatio?",
+    "answer1": "пересадка органа",
+    "answer2": "удаление органа",
+    "answer3": "внутривенное введение",
+    "answer4": "обезболивание",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое transdermalis?",
+    "answer1": "через кожу",
+    "answer2": "внутрь кожи",
+    "answer3": "подкожно",
+    "answer4": "поверхностно",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин irrationalis?",
+    "answer1": "нерациональный, лишённый разумности",
+    "answer2": "повторный, двойной",
+    "answer3": "связанный с раздражением",
+    "answer4": "расположенный внутри",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое hyperaemia?",
+    "answer1": "повышенное кровенаполнение",
+    "answer2": "пониженное кровенаполнение",
+    "answer3": "повышенная температура",
+    "answer4": "пониженное давление",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое hypertrophia?",
+    "answer1": "увеличение объёма ткани или органа",
+    "answer2": "уменьшение объёма органа",
+    "answer3": "расстройство питания",
+    "answer4": "повышенная чувствительность",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что такое hypothermia?",
+    "answer1": "пониженная температура тела",
+    "answer2": "повышенная температура тела",
+    "answer3": "воспаление кожи",
+    "answer4": "расстройство дыхания",
+    "correctAnswer": "1"
+  }
+]

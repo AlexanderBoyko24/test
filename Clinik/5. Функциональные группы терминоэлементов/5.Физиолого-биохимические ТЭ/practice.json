@@ -1,0 +1,317 @@
+[
+  {
+    "type": "TEST",
+    "question": "Что означает anaesthesiologia?",
+    "answer1": "наука о методах обезболивания",
+    "answer2": "воспаление нервов",
+    "answer3": "замедленные движения",
+    "answer4": "повышенное давление",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает thermoaesthesia?",
+    "answer1": "чувствительность к тепловым или холодовым раздражителям",
+    "answer2": "повышение мышечного тонуса",
+    "answer3": "расстройство памяти",
+    "answer4": "увеличение аппетита",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hyperergia?",
+    "answer1": "повышенная реактивность организма",
+    "answer2": "снижение активности организма",
+    "answer3": "замедление движений",
+    "answer4": "паралич мышц",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hypoergia?",
+    "answer1": "пониженная реактивность организма",
+    "answer2": "повышенная реактивность организма",
+    "answer3": "замедление движений",
+    "answer4": "паралич мышц",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает synergismus?",
+    "answer1": "совместное действие органов или мышц",
+    "answer2": "разрушение тканей",
+    "answer3": "паралич одной конечности",
+    "answer4": "воспаление нервов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает akinesia?",
+    "answer1": "отсутствие движения",
+    "answer2": "ускоренные движения",
+    "answer3": "усиление чувствительности",
+    "answer4": "снижение аппетита",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hyperkinesia?",
+    "answer1": "повышенная двигательная активность",
+    "answer2": "замедленные движения",
+    "answer3": "паралич мышц",
+    "answer4": "воспаление сосудов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает bradykinesia?",
+    "answer1": "замедленные движения",
+    "answer2": "нарушение памяти",
+    "answer3": "воспаление печени",
+    "answer4": "повышение давления",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hypermnesia?",
+    "answer1": "усиленное воспроизведение деталей прошлого",
+    "answer2": "потеря памяти",
+    "answer3": "ослабление памяти",
+    "answer4": "ложные воспоминания",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает dysmnesia?",
+    "answer1": "нарушение памяти, затруднение воспроизведения информации",
+    "answer2": "повышенная память",
+    "answer3": "нормальная память",
+    "answer4": "ложные воспоминания",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hyperpepsia?",
+    "answer1": "усиленное пищеварение",
+    "answer2": "замедление движений",
+    "answer3": "повышение давления",
+    "answer4": "снижение памяти",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает bradypepsia?",
+    "answer1": "замедленное пищеварение",
+    "answer2": "повышенное слюноотделение",
+    "answer3": "усиленное пищеварение",
+    "answer4": "отсутствие аппетита",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает dyspepsia?",
+    "answer1": "расстройство пищеварения",
+    "answer2": "потеря аппетита",
+    "answer3": "опухоль печени",
+    "answer4": "снижение памяти",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает coprophagia?",
+    "answer1": "поедание фекалий",
+    "answer2": "затруднённое глотание",
+    "answer3": "опухоль печени",
+    "answer4": "расстройство памяти",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hyperphagia?",
+    "answer1": "повышенный аппетит, чрезмерное потребление пищи",
+    "answer2": "невозможность глотать",
+    "answer3": "замедленное пищеварение",
+    "answer4": "отсутствие аппетита",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает oligophagia?",
+    "answer1": "снижение потребления пищи",
+    "answer2": "повышение аппетита",
+    "answer3": "замедление движений",
+    "answer4": "расстройство памяти",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hypoplasia?",
+    "answer1": "недоразвитие органа или ткани",
+    "answer2": "паралич мышц",
+    "answer3": "повышение давления",
+    "answer4": "расстройство пищеварения",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hyperplasia?",
+    "answer1": "чрезмерное развитие ткани",
+    "answer2": "замедленные движения",
+    "answer3": "снижение памяти",
+    "answer4": "опухоль печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает metaplasia?",
+    "answer1": "замена одного вида ткани другим",
+    "answer2": "паралич нижних конечностей",
+    "answer3": "повышение тонуса",
+    "answer4": "опухоль почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hemiplegia?",
+    "answer1": "паралич одной половины тела",
+    "answer2": "паралич всех конечностей",
+    "answer3": "замедленные движения",
+    "answer4": "нарушение памяти",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает ophthalmoplegia?",
+    "answer1": "паралич мышц глаза",
+    "answer2": "повышение внутриглазного давления",
+    "answer3": "воспаление глазницы",
+    "answer4": "помутнение роговицы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает blepharoplegia?",
+    "answer1": "паралич мышц века",
+    "answer2": "воспаление века",
+    "answer3": "опущение века",
+    "answer4": "спазм века",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hypertensio?",
+    "answer1": "повышенное давление",
+    "answer2": "пониженное давление",
+    "answer3": "паралич мышц",
+    "answer4": "замедление движений",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hypotensio?",
+    "answer1": "пониженное давление",
+    "answer2": "повышенное давление",
+    "answer3": "усиление памяти",
+    "answer4": "опухоль печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hyperthermia?",
+    "answer1": "повышенная температура",
+    "answer2": "пониженная температура",
+    "answer3": "замедленные движения",
+    "answer4": "паралич мышц",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hypothermia?",
+    "answer1": "пониженная температура",
+    "answer2": "повышенная температура",
+    "answer3": "опухоль печени",
+    "answer4": "замедление движений",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hypertonia?",
+    "answer1": "повышенный мышечный тонус",
+    "answer2": "пониженный тонус",
+    "answer3": "замедленные движения",
+    "answer4": "опухоль печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hypotonia?",
+    "answer1": "пониженный мышечный тонус",
+    "answer2": "повышенный тонус",
+    "answer3": "замедление движений",
+    "answer4": "паралич мышц",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hypertrophia?",
+    "answer1": "увеличение органа или ткани",
+    "answer2": "уменьшение органа или ткани",
+    "answer3": "паралич мышц",
+    "answer4": "расстройство пищеварения",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает atrophia?",
+    "answer1": "уменьшение органа или ткани",
+    "answer2": "увеличение органа или ткани",
+    "answer3": "замедление движений",
+    "answer4": "опухоль печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает dystrophia?",
+    "answer1": "нарушение питания тканей",
+    "answer2": "увеличение тонуса",
+    "answer3": "замедление движений",
+    "answer4": "опухоль почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает myopia?",
+    "answer1": "близорукость",
+    "answer2": "дальнозоркость",
+    "answer3": "воспаление глаз",
+    "answer4": "паралич мышц",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hyperopia?",
+    "answer1": "дальнозоркость",
+    "answer2": "близорукость",
+    "answer3": "паралич глаз",
+    "answer4": "опухоль глаз",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает chromatopsia?",
+    "answer1": "нарушение цветового зрения",
+    "answer2": "воспаление сетчатки",
+    "answer3": "двойное зрение",
+    "answer4": "потеря периферического зрения",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает anaesthesiologus?",
+    "answer1": "врач, специализирующийся на обезболивании",
+    "answer2": "врач по сердечно-сосудистым заболеваниям",
+    "answer3": "врач по заболеваниям кожи",
+    "answer4": "врач по пищеварительной системе",
+    "correctAnswer": "1"
+  }
+]

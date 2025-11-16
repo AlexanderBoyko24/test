@@ -1,0 +1,452 @@
+[
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: nephros",
+    "correctAnswer": "1",
+    "answer1": "ren",
+    "answer2": "auris",
+    "answer3": "larynx",
+    "answer4": "hepar"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: derma",
+    "correctAnswer": "1",
+    "answer1": "cutis",
+    "answer2": "spina",
+    "answer3": "abdomen",
+    "answer4": "ren"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: myos",
+    "correctAnswer": "1",
+    "answer1": "musculus",
+    "answer2": "medicus",
+    "answer3": "ventriculus",
+    "answer4": "pectus"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: osteon",
+    "correctAnswer": "1",
+    "answer1": "os, ossis",
+    "answer2": "pilus",
+    "answer3": "vesica",
+    "answer4": "pleura"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: arthron",
+    "correctAnswer": "1",
+    "answer1": "articulatio",
+    "answer2": "nervus",
+    "answer3": "intestinum",
+    "answer4": "digitus"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: cardia",
+    "correctAnswer": "1",
+    "answer1": "cor",
+    "answer2": "mensis",
+    "answer3": "vita",
+    "answer4": "oculus"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: haema",
+    "correctAnswer": "1",
+    "answer1": "sanguis",
+    "answer2": "vagina",
+    "answer3": "medicus",
+    "answer4": "corpus"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: hyster",
+    "correctAnswer": "1",
+    "answer1": "uterus",
+    "answer2": "caput",
+    "answer3": "anus",
+    "answer4": "manus"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: gastr",
+    "correctAnswer": "1",
+    "answer1": "gaster",
+    "answer2": "manus",
+    "answer3": "corpus",
+    "answer4": "sanguis"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: enteron",
+    "correctAnswer": "1",
+    "answer1": "intestinum",
+    "answer2": "cor",
+    "answer3": "anus",
+    "answer4": "dens"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: pneumon",
+    "correctAnswer": "1",
+    "answer1": "pulmo",
+    "answer2": "maxilla",
+    "answer3": "vesica",
+    "answer4": "oculus"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: cephale",
+    "correctAnswer": "1",
+    "answer1": "caput",
+    "answer2": "ventriculus",
+    "answer3": "trachea",
+    "answer4": "os"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: neuron",
+    "correctAnswer": "1",
+    "answer1": "nervus",
+    "answer2": "auris",
+    "answer3": "os",
+    "answer4": "manus"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: cystis",
+    "correctAnswer": "1",
+    "answer1": "vesica",
+    "answer2": "intestinum",
+    "answer3": "os",
+    "answer4": "hymen"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: men",
+    "correctAnswer": "1",
+    "answer1": "mensis",
+    "answer2": "auris",
+    "answer3": "uterus",
+    "answer4": "nervus"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: iatros",
+    "correctAnswer": "1",
+    "answer1": "medicus",
+    "answer2": "arteria",
+    "answer3": "mensis",
+    "answer4": "pilus"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: glossa",
+    "correctAnswer": "1",
+    "answer1": "lingua",
+    "answer2": "fel",
+    "answer3": "mensis",
+    "answer4": "digitus"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: ophthalmos",
+    "correctAnswer": "1",
+    "answer1": "oculus",
+    "answer2": "abdomen",
+    "answer3": "mensis",
+    "answer4": "sanguis"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: otos",
+    "correctAnswer": "1",
+    "answer1": "auris",
+    "answer2": "abdomen",
+    "answer3": "femina",
+    "answer4": "humerus"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: rhinos",
+    "correctAnswer": "1",
+    "answer1": "nasus",
+    "answer2": "sanguinis formatio",
+    "answer3": "larynx",
+    "answer4": "caput"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: hepat",
+    "correctAnswer": "1",
+    "answer1": "hepar",
+    "answer2": "maxilla",
+    "answer3": "vir",
+    "answer4": "spina"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: splen",
+    "correctAnswer": "1",
+    "answer1": "lien",
+    "answer2": "anus",
+    "answer3": "ventriculus",
+    "answer4": "uterus"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: chole",
+    "correctAnswer": "1",
+    "answer1": "bilis",
+    "answer2": "auris",
+    "answer3": "vagina",
+    "answer4": "nasus"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: phleb",
+    "correctAnswer": "1",
+    "answer1": "vena",
+    "answer2": "uterus",
+    "answer3": "membrum",
+    "answer4": "pilus"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: pathos",
+    "correctAnswer": "1",
+    "answer1": "morbus",
+    "answer2": "hymen",
+    "answer3": "abdomen",
+    "answer4": "spina"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: gynaec",
+    "correctAnswer": "1",
+    "answer1": "femina",
+    "answer2": "auris",
+    "answer3": "articulatio",
+    "answer4": "mensis"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: colpos",
+    "correctAnswer": "1",
+    "answer1": "vagina",
+    "answer2": "trachea",
+    "answer3": "humerus",
+    "answer4": "pulmo"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: proctos",
+    "correctAnswer": "1",
+    "answer1": "rectum",
+    "answer2": "iecur",
+    "answer3": "nervus",
+    "answer4": "pulmo"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: lapara",
+    "correctAnswer": "1",
+    "answer1": "abdomen",
+    "answer2": "pectus",
+    "answer3": "maxilla",
+    "answer4": "pleura"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: kystis (cystis)",
+    "correctAnswer": "1",
+    "answer1": "vesica urinaria",
+    "answer2": "pilus",
+    "answer3": "articulatio",
+    "answer4": "uterus"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: cyt",
+    "correctAnswer": "1",
+    "answer1": "cellula",
+    "answer2": "ala",
+    "answer3": "homo",
+    "answer4": "digitus"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: hydr",
+    "correctAnswer": "1",
+    "answer1": "aqua",
+    "answer2": "chole",
+    "answer3": "sanguis",
+    "answer4": "vena"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету:pter",
+    "correctAnswer": "1",
+    "answer1": "ala",
+    "answer2": "cerebrum",
+    "answer3": "os",
+    "answer4": "pes"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету:blephar",
+    "correctAnswer": "1",
+    "answer1": "palpebra",
+    "answer2": "oculus",
+    "answer3": "os",
+    "answer4": "dens"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету:carcin",
+    "correctAnswer": "1",
+    "answer1": "cancer",
+    "answer2": "fractura",
+    "answer3": "contusio",
+    "answer4": "incisio"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету:dactyl",
+    "correctAnswer": "1",
+    "answer1": "digitus",
+    "answer2": "phalanx",
+    "answer3": "humerus",
+    "answer4": "pubis"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету:trych",
+    "correctAnswer": "1",
+    "answer1": "capilus",
+    "answer2": "unguis",
+    "answer3": "conru",
+    "answer4": "cutis"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету:pod",
+    "correctAnswer": "1",
+    "answer1": "pes",
+    "answer2": "manus",
+    "answer3": "labium",
+    "answer4": "gingiva"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету:soma",
+    "correctAnswer": "1",
+    "answer1": "corpus",
+    "answer2": "os",
+    "answer3": "homo",
+    "answer4": "femina"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету:stomat",
+    "correctAnswer": "1",
+    "answer1": "os, oris",
+    "answer2": "dens",
+    "answer3": "lingua",
+    "answer4": "palatinum"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету:chondr",
+    "correctAnswer": "1",
+    "answer1": "cartilago",
+    "answer2": "atriculatio",
+    "answer3": "os",
+    "answer4": "cranium"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету:phren",
+    "correctAnswer": "1",
+    "answer1": "mens",
+    "answer2": "cerebrum",
+    "answer3": "encephalon",
+    "answer4": "cranium"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: angio",
+    "correctAnswer": "1",
+    "answer1": "vas, vasis",
+    "answer2": "vena",
+    "answer3": "arteria",
+    "answer4": "aorta"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету:hist",
+    "correctAnswer": "1",
+    "answer1": "textus",
+    "answer2": "cutis",
+    "answer3": "mucosa",
+    "answer4": "sanguis"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету:kerat",
+    "correctAnswer": "1",
+    "answer1": "cornu",
+    "answer2": "oculus",
+    "answer3": "blepharon",
+    "answer4": "unguis"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: anthrop",
+    "correctAnswer": "1",
+    "answer1": "homo",
+    "answer2": "vir",
+    "answer3": "femina",
+    "answer4": "animalis"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: gnat",
+    "correctAnswer": "1",
+    "answer1": "maxilla",
+    "answer2": "cranium",
+    "answer3": "caput",
+    "answer4": "pes"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: thorax",
+    "correctAnswer": "1",
+    "answer1": "pectus",
+    "answer2": "costa",
+    "answer3": "pulmo",
+    "answer4": "corpus"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: oophoron",
+    "correctAnswer": "1",
+    "answer1": "ovarium",
+    "answer2": "vagina",
+    "answer3": "uterus",
+    "answer4": "labium"
+  },
+  {
+    "type": "TEST",
+    "Question": "Найдите латинский анатомический термин к греческому дублету: salpinx",
+    "correctAnswer": "1",
+    "answer1": "tuba uterina",
+    "answer2": "vagina",
+    "answer3": "uterus",
+    "answer4": "femina"
+  }
+]

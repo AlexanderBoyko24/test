@@ -1,0 +1,2171 @@
+[
+  {
+    "type": "TEST",
+    "question": "Что означает термин hydrocephalia?",
+    "answer1": "скопление жидкости в полости черепа",
+    "answer2": "воспаление мозговой оболочки",
+    "answer3": "опухоль мозга",
+    "answer4": "разрыв сосуда",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин hydropenia?",
+    "answer1": "недостаток воды в организме",
+    "answer2": "избыток пота",
+    "answer3": "воспаление желчного пузыря",
+    "answer4": "расширение сосудов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин toxicologia?",
+    "answer1": "наука о ядах",
+    "answer2": "наука о сердце",
+    "answer3": "наука о печени",
+    "answer4": "наука о костях",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин toxicosis?",
+    "answer1": "отравление организма",
+    "answer2": "воспаление лимфоузлов",
+    "answer3": "разрушение костной ткани",
+    "answer4": "спазм желудка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин chyluria?",
+    "answer1": "наличие лимфы в моче",
+    "answer2": "наличие крови в моче",
+    "answer3": "наличие гноя в моче",
+    "answer4": "наличие воздуха в моче",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин chylemia?",
+    "answer1": "попадание лимфы в кровь",
+    "answer2": "воспаление лимфоузлов",
+    "answer3": "отёк мягких тканей",
+    "answer4": "разрушение сосудов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин galactorrhoea?",
+    "answer1": "истечение молока",
+    "answer2": "истечение крови",
+    "answer3": "истечение желчи",
+    "answer4": "истечение гноя",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин agalactia?",
+    "answer1": "отсутствие выделения молока",
+    "answer2": "отсутствие мочи",
+    "answer3": "отсутствие слюны",
+    "answer4": "отсутствие желчи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин hyperglykaemia?",
+    "answer1": "повышенное содержание сахара в крови",
+    "answer2": "пониженное давление",
+    "answer3": "воспаление желудка",
+    "answer4": "снижение уровня кальция",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин glucosuria?",
+    "answer1": "наличие сахара в моче",
+    "answer2": "наличие гноя в моче",
+    "answer3": "наличие крови в моче",
+    "answer4": "наличие белка в моче",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин hyperhidrosis?",
+    "answer1": "чрезмерное потоотделение",
+    "answer2": "отсутствие слюны",
+    "answer3": "воспаление кожи",
+    "answer4": "расширение сосудов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин anhidrosis?",
+    "answer1": "отсутствие потоотделения",
+    "answer2": "избыток желчи",
+    "answer3": "воспаление лимфы",
+    "answer4": "задержка мочи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин pneumothorax?",
+    "answer1": "наличие воздуха в плевральной полости",
+    "answer2": "воспаление лёгких",
+    "answer3": "кровоизлияние в мозг",
+    "answer4": "спазм диафрагмы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин pneumocephalia?",
+    "answer1": "скопление воздуха внутри черепа",
+    "answer2": "воспаление мозга",
+    "answer3": "опухоль желудка",
+    "answer4": "закупорка сосудов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин pyoderma?",
+    "answer1": "гнойное поражение кожи",
+    "answer2": "воспаление лёгких",
+    "answer3": "образование язв в желудке",
+    "answer4": "кровоизлияние",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин pyothorax?",
+    "answer1": "скопление гноя в грудной полости",
+    "answer2": "воспаление почек",
+    "answer3": "кровотечение",
+    "answer4": "спазм сосудов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин serodiagnosis?",
+    "answer1": "диагностика по сыворотке крови",
+    "answer2": "рентгенологическое исследование",
+    "answer3": "УЗИ печени",
+    "answer4": "лечение с помощью вакцины",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин serotherapia?",
+    "answer1": "лечение с использованием сыворотки",
+    "answer2": "лечение хирургическим путём",
+    "answer3": "лечение травами",
+    "answer4": "лечение током",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин cholestasis?",
+    "answer1": "застой желчи",
+    "answer2": "воспаление почек",
+    "answer3": "воспаление печени",
+    "answer4": "воспаление поджелудочной железы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин cholelithiasis?",
+    "answer1": "желчнокаменная болезнь",
+    "answer2": "воспаление мочевого пузыря",
+    "answer3": "закупорка кишечника",
+    "answer4": "опухоль селезёнки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин coprolithus?",
+    "answer1": "каловый камень",
+    "answer2": "камень в почке",
+    "answer3": "камень в печени",
+    "answer4": "камень в сердце",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин coprophobia?",
+    "answer1": "панический страх перед калом ",
+    "answer2": "боязнь закрытых пространств",
+    "answer3": "боязнь воды",
+    "answer4": "боязнь крови",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин urolithiasis?",
+    "answer1": "мочекаменная болезнь",
+    "answer2": "воспаление почек",
+    "answer3": "увеличение печени",
+    "answer4": "закупорка сосудов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин polyuria?",
+    "answer1": "обильное мочеотделение",
+    "answer2": "отсутствие мочи",
+    "answer3": "гнойное воспаление",
+    "answer4": "повышение давления",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин haemorrhagia?",
+    "answer1": "кровотечение",
+    "answer2": "спазм сосудов",
+    "answer3": "воспаление крови",
+    "answer4": "закупорка артерии",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин anaemia?",
+    "answer1": "малокровие, понижение гемоглобина",
+    "answer2": "повышение сахара",
+    "answer3": "воспаление лёгких",
+    "answer4": "разрушение костей",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин lymphadenitis?",
+    "answer1": "воспаление лимфатического узла",
+    "answer2": "воспаление печени",
+    "answer3": "воспаление мозга",
+    "answer4": "воспаление почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин lymphostasis?",
+    "answer1": "застой лимфы",
+    "answer2": "расширение сосудов",
+    "answer3": "скопление гноя",
+    "answer4": "истечение крови",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин sialorrhoea?",
+    "answer1": "повышенное слюноотделение",
+    "answer2": "воспаление миндалин",
+    "answer3": "выделение гноя",
+    "answer4": "скопление воздуха",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин ptyalolithiasis?",
+    "answer1": "камнеобразование в слюнных протоках",
+    "answer2": "воспаление языка",
+    "answer3": "нарушение вкуса",
+    "answer4": "закупорка кишечника",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин dacryocystitis?",
+    "answer1": "воспаление слёзного мешка",
+    "answer2": "воспаление языка",
+    "answer3": "воспаление печени",
+    "answer4": "воспаление кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин dacryorrhoea?",
+    "answer1": "обильное выделение слёз",
+    "answer2": "выделение гноя",
+    "answer3": "выделение желчи",
+    "answer4": "выделение пота",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин myxoma?",
+    "answer1": "опухоль из слизистой ткани",
+    "answer2": "воспаление кожи",
+    "answer3": "кровоизлияние",
+    "answer4": "разрыв связок",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин mucositis?",
+    "answer1": "воспаление слизистой оболочки",
+    "answer2": "воспаление суставов",
+    "answer3": "воспаление костей",
+    "answer4": "воспаление мозга",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин spermatogenesis?",
+    "answer1": "образование сперматозоидов",
+    "answer2": "воспаление семенного канатика",
+    "answer3": "выделение мочи",
+    "answer4": "оплодотворение яйцеклетки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин azoospermia?",
+    "answer1": "отсутствие сперматозоидов в семени",
+    "answer2": "избыток желчи",
+    "answer3": "воспаление лимфы",
+    "answer4": "недостаток сахара",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин seborrhoea?",
+    "answer1": "повышенное выделение кожного сала",
+    "answer2": "воспаление кожи",
+    "answer3": "выпадение волос",
+    "answer4": "повышенное потоотделение",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин sebostasis?",
+    "answer1": "задержка выделения кожного сала",
+    "answer2": "закупорка сосудов",
+    "answer3": "воспаление желез",
+    "answer4": "истечение крови",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин achylia?",
+    "answer1": "отсутствие желудочного сока",
+    "answer2": "воспаление желудка",
+    "answer3": "опухоль поджелудочной железы",
+    "answer4": "разрыв стенки желудка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин chymorrhoea?",
+    "answer1": "истечение желудочного содержимого",
+    "answer2": "истечение крови",
+    "answer3": "истечение гноя",
+    "answer4": "истечение лимфы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин pyorrhoea?",
+    "answer1": "течение гноя",
+    "answer2": "течение крови",
+    "answer3": "течение желчи",
+    "answer4": "течение мочи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин haematuria?",
+    "answer1": "наличие крови в моче",
+    "answer2": "наличие сахара в моче",
+    "answer3": "наличие лимфы в моче",
+    "answer4": "ниличие бактерий в моче",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин hyperhidrosis?",
+    "answer1": "повышенное потоотделение",
+    "answer2": "воспаление кожи",
+    "answer3": "отёк слизистой",
+    "answer4": "нарушение дыхания",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин uraemia?",
+    "answer1": "накопление продуктов азотистого обмена (мочи) в крови ",
+    "answer2": "воспаление почки",
+    "answer3": "болезнь коленного сустава",
+    "answer4": "паралич лицевых мышц",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин pyonephritis?",
+    "answer1": "гнойное воспаление почки",
+    "answer2": "воспаление мочевого пузыря",
+    "answer3": "болезнь коленного сустава",
+    "answer4": "гнойное поражение кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  }
+]

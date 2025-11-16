@@ -1,0 +1,362 @@
+[
+  {
+    "type": "TEST",
+    "question": "Что означает cytolysis?",
+    "answer1": "разрушение клеток",
+    "answer2": "воспаление клеток",
+    "answer3": "образование клеток",
+    "answer4": "слияние клеток",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает thrombolysis?",
+    "answer1": "растворение тромба",
+    "answer2": "образование тромба",
+    "answer3": "воспаление сосуда",
+    "answer4": "сужение артерии",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает neurolysis?",
+    "answer1": "освобождение нервных волокон от рубцовой ткани",
+    "answer2": "образование нервной ткани",
+    "answer3": "воспаление нерва",
+    "answer4": "расширение сосудов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает anaemia?",
+    "answer1": "уменьшение количества эритроцитов или гемоглобина",
+    "answer2": "увеличение количества мочи в крови",
+    "answer3": "повышенная вязкость крови",
+    "answer4": "воспаление крови",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает uraemia?",
+    "answer1": "наличие продуктов обмена в крови",
+    "answer2": "воспаление мочевого пузыря",
+    "answer3": "наличие гноя в крови",
+    "answer4": "застой лимфы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает glycaemia?",
+    "answer1": "содержание глюкозы в крови",
+    "answer2": "воспаление печени",
+    "answer3": "избыток железа в крови",
+    "answer4": "нехватка кислорода",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает typhlectasia?",
+    "answer1": "патологическое расширение слепой кишки",
+    "answer2": "воспаление бронхов",
+    "answer3": "спазм бронхов",
+    "answer4": "закупорка бронхов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает nephrectasis?",
+    "answer1": "расширение почечной лоханки",
+    "answer2": "воспаление почек",
+    "answer3": "опущение почки",
+    "answer4": "разрыв почки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает phlebectasia?",
+    "answer1": "расширение вен",
+    "answer2": "воспаление сосудов",
+    "answer3": "закупорка сосудов",
+    "answer4": "спазм сосудов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает osteogenesis?",
+    "answer1": "образование костной ткани",
+    "answer2": "разрушение костей",
+    "answer3": "воспаление костей",
+    "answer4": "размягчение костей",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает carcinogenesis?",
+    "answer1": "развитие раковых заболеваний",
+    "answer2": "воспаление желез",
+    "answer3": "разрушение клеток",
+    "answer4": "остановка роста ткани",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает histogenesis?",
+    "answer1": "развитие тканей организма",
+    "answer2": "разрушение тканей",
+    "answer3": "воспаление тканей",
+    "answer4": "застой крови",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает cholelithus?",
+    "answer1": "желчный камень",
+    "answer2": "почечный камень",
+    "answer3": "опухоль желчного пузыря",
+    "answer4": "воспаление печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает nephrolithus?",
+    "answer1": "камень в почке",
+    "answer2": "воспаление почки",
+    "answer3": "опухоль почки",
+    "answer4": "разрушение почечной ткани",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает sialolithus?",
+    "answer1": "камень слюнной железы",
+    "answer2": "воспаление слюнной железы",
+    "answer3": "закупорка протока",
+    "answer4": "опухоль слюнной железы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает cholelithiasis?",
+    "answer1": "каменная болезнь желчного пузыря",
+    "answer2": "воспаление желчного пузыря",
+    "answer3": "закупорка протока",
+    "answer4": "повышение билирубина",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает urolithiasis?",
+    "answer1": "образование камней в мочевыводящих путях",
+    "answer2": "воспаление мочевого пузыря",
+    "answer3": "задержка мочи",
+    "answer4": "недостаток солей",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает nephrolithiasis?",
+    "answer1": "каменная болезнь почек",
+    "answer2": "воспаление почек",
+    "answer3": "расширение почек",
+    "answer4": "опухоль почек",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает leukopenia?",
+    "answer1": "уменьшение количества лейкоцитов",
+    "answer2": "увеличение количества лейкоцитов",
+    "answer3": "воспаление крови",
+    "answer4": "снижение гемоглобина",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает thrombocytopenia?",
+    "answer1": "снижение числа тромбоцитов",
+    "answer2": "увеличение тромбоцитов",
+    "answer3": "воспаление сосудов",
+    "answer4": "нарушение свертывания",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает erythropenia?",
+    "answer1": "недостаток эритроцитов",
+    "answer2": "избыток эритроцитов",
+    "answer3": "разрушение эритроцитов",
+    "answer4": "воспаление крови",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает haemophilia?",
+    "answer1": "склонность к кровотечениям",
+    "answer2": "склонность к спазмам сосудов",
+    "answer3": "страх крови",
+    "answer4": "образование тромбов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает thrombophilia?",
+    "answer1": "склонность к образованию тромбов",
+    "answer2": "боязнь воды",
+    "answer3": "воспаление желез",
+    "answer4": "растворение солей",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hematopoesis?",
+    "answer1": "кроветворение",
+    "answer2": "разрушение крови",
+    "answer3": "воспаление крови",
+    "answer4": "застой крови",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает leukopoesis?",
+    "answer1": "образование лейкоцитов",
+    "answer2": "разрушение лейкоцитов",
+    "answer3": "воспаление лейкоцитов",
+    "answer4": "скопление крови",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает uropoesis?",
+    "answer1": "образование мочи",
+    "answer2": "разрушение тромбоцитов",
+    "answer3": "закупорка сосудов",
+    "answer4": "воспаление крови",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hepatonecrosis?",
+    "answer1": "омертвение ткани печени",
+    "answer2": "воспаление печени",
+    "answer3": "разрушение печени вирусом",
+    "answer4": "опухоль печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает myonecrosis?",
+    "answer1": "омертвение мышечной ткани",
+    "answer2": "воспаление мышцы",
+    "answer3": "спазм мышцы",
+    "answer4": "опухоль мышцы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает dermonecrosis?",
+    "answer1": "омертвение участка кожи",
+    "answer2": "воспаление кожи",
+    "answer3": "разрушение эпидермиса",
+    "answer4": "опухоль кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает rhinorrhoea?",
+    "answer1": "выделение слизи из носа",
+    "answer2": "воспаление носа",
+    "answer3": "отёк слизистой носа",
+    "answer4": "сухость слизистой",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает diarrhoea?",
+    "answer1": "частое жидкое испражнение",
+    "answer2": "воспаление кишечника",
+    "answer3": "вздутие живота",
+    "answer4": "запор",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает galactorrhoea?",
+    "answer1": "выделение молока вне лактации",
+    "answer2": "воспаление молочных желез",
+    "answer3": "опухоль груди",
+    "answer4": "закупорка протока",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает cholestasis?",
+    "answer1": "застой желчи",
+    "answer2": "воспаление желчного пузыря",
+    "answer3": "разрушение печени",
+    "answer4": "камни в желчном пузыре",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает haemostasis?",
+    "answer1": "остановка кровотечения",
+    "answer2": "нарушение кровотока",
+    "answer3": "воспаление сосудов",
+    "answer4": "застой крови",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает lymphostasis?",
+    "answer1": "застой лимфы",
+    "answer2": "воспаление лимфоузлов",
+    "answer3": "разрушение лимфатических сосудов",
+    "answer4": "закупорка вен",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hepatolysis?",
+    "answer1": "разрушение клеток печени",
+    "answer2": "воспаление печени",
+    "answer3": "жировое перерождение печени",
+    "answer4": "увеличение печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hyperglycaemia?",
+    "answer1": "повышенное содержание глюкозы в крови",
+    "answer2": "пониженное содержание глюкозы",
+    "answer3": "повышенное давление",
+    "answer4": "избыток белка в крови",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает ureterectasia?",
+    "answer1": "расширение мочеточника",
+    "answer2": "воспаление мочевого пузыря",
+    "answer3": "сужение мочеиспускательного канала",
+    "answer4": "камень в мочеточнике",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает odontogenesis?",
+    "answer1": "развитие зуба",
+    "answer2": "разрушение зуба",
+    "answer3": "перемещение зуба",
+    "answer4": "потеря зубов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает enterolithiasis?",
+    "answer1": "образование камней в кишечнике",
+    "answer2": "воспаление кишечника",
+    "answer3": "спазмы кишечника",
+    "answer4": "кровотечение из кишечника",
+    "correctAnswer": "1"
+  }
+]

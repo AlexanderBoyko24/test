@@ -1,0 +1,299 @@
+[
+  {
+    "type": "TEST",
+    "question": "Что означает angiotherapia?",
+    "answer1": "лечение сосудов",
+    "answer2": "удаление сосудов",
+    "answer3": "воспаление сосудов",
+    "answer4": "исследование сосудов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает cryotherapia?",
+    "answer1": "лечение холодом",
+    "answer2": "воспаление костей",
+    "answer3": "удаление миндалины",
+    "answer4": "светобоязнь",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает phytotherapia?",
+    "answer1": "лечение травами",
+    "answer2": "удаление конечности",
+    "answer3": "восстановление подвижности",
+    "answer4": "осмотр глаза",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает osteodermia?",
+    "answer1": "ороговение кожи",
+    "answer2": "воспаление костей",
+    "answer3": "поражение мышц",
+    "answer4": "затвердевание сосудов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает melanodermia?",
+    "answer1": "потемнение кожи",
+    "answer2": "осветление кожи",
+    "answer3": "воспаление кожи",
+    "answer4": "утолщение кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает erythrodermia?",
+    "answer1": "покраснение кожи",
+    "answer2": "ороговение кожи",
+    "answer3": "шелушение кожи",
+    "answer4": "потемнение кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hematologia?",
+    "answer1": "наука о крови",
+    "answer2": "наука о костях",
+    "answer3": "наука о коже",
+    "answer4": "наука о сердце",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что изучает odontologia?",
+    "answer1": "строение и болезни зубов",
+    "answer2": "строение костей",
+    "answer3": "функции желудка",
+    "answer4": "строение нервов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что изучает pulmonologia?",
+    "answer1": "наука о легких",
+    "answer2": "болезни суставов",
+    "answer3": "болезни сердца",
+    "answer4": "болезни кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Кто такой toxicologus?",
+    "answer1": "специалист по ядам",
+    "answer2": "специалист по тканям",
+    "answer3": "специалист по зрению",
+    "answer4": "специалист по инфекциям",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Кто такой mycologus?",
+    "answer1": "специалист по грибам",
+    "answer2": "специалист по костям",
+    "answer3": "специалист по сосудам",
+    "answer4": "специалист по дыханию",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Кто такой gynaecologus?",
+    "answer1": "специалист по женским заболеваниям",
+    "answer2": "специалист по коже",
+    "answer3": "специалист по крови",
+    "answer4": "специалист по питанию",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает craniometria?",
+    "answer1": "измерение черепа",
+    "answer2": "измерение давления",
+    "answer3": "измерение лёгких",
+    "answer4": "измерение массы тела",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает cephalometria?",
+    "answer1": "измерение головы",
+    "answer2": "измерение давления",
+    "answer3": "измерение сердца",
+    "answer4": "измерение живота",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает keratometria?",
+    "answer1": "измерение кривизны роговицы",
+    "answer2": "измерение частоты дыхания",
+    "answer3": "измерение роста",
+    "answer4": "измерение мышечной силы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает logopaedia?",
+    "answer1": "коррекция нарушений речи",
+    "answer2": "лечение кожных болезней",
+    "answer3": "измерение давления",
+    "answer4": "осмотр полости рта",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает psychoorthopaedia?",
+    "answer1": "коррекция психических  нарушений",
+    "answer2": "лечение сердечно-сосудистых заболеваний",
+    "answer3": "исследование органов чувств",
+    "answer4": "удаление костных деформаций",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает orthopaedia infantum?",
+    "answer1": "исправление деформаций у детей",
+    "answer2": "лечение воспалений у детей",
+    "answer3": "исследование органов чувств у детей",
+    "answer4": "измерение роста детей",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает arthroscopia?",
+    "answer1": "осмотр суставной полости",
+    "answer2": "исследование крови",
+    "answer3": "лечение костей",
+    "answer4": "удаление опухоли",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает laparoscopia?",
+    "answer1": "осмотр брюшной полости",
+    "answer2": "измерение давления",
+    "answer3": "исследование лёгких",
+    "answer4": "лечение печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает rhinoscopia?",
+    "answer1": "осмотр носовой полости",
+    "answer2": "исследование дыхания",
+    "answer3": "лечение гайморита",
+    "answer4": "удаление миндалин",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает microscopium?",
+    "answer1": "прибор для наблюдения мелких объектов",
+    "answer2": "инструмент для измерений",
+    "answer3": "устройство для прослушивания сердца",
+    "answer4": "аппарат для дыхания",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает ophthalmoscopium?",
+    "answer1": "прибор для осмотра глазного дна",
+    "answer2": "прибор для измерения давления",
+    "answer3": "прибор для анализа крови",
+    "answer4": "прибор для массажа глаз",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает colposcopium?",
+    "answer1": "прибор для осмотра влагалища",
+    "answer2": "прибор для исследования желудка",
+    "answer3": "прибор для прослушивания сердца",
+    "answer4": "прибор для измерения роста",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает phthisiater?",
+    "answer1": "врач, лечащий туберкулёз",
+    "answer2": "врач, лечащий детей",
+    "answer3": "врач, лечащий нервы",
+    "answer4": "врач, лечащий сердце",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает psyhiater?",
+    "answer1": "врач, лечащий психические заболевания",
+    "answer2": "врач, лечащий зубы",
+    "answer3": "врач, лечазий мочеполовую систему",
+    "answer4": "врач, лечащий конечности",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает phoniater?",
+    "answer1": "врач, лечащий голосовые нарушения",
+    "answer2": "врач, лечащий носовую полость",
+    "answer3": "врач, лечащий мозг",
+    "answer4": "врач, лечащий зрение",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает paediatria?",
+    "answer1": "лечение детей",
+    "answer2": "лечение пожилых людей",
+    "answer3": "лечение кожи",
+    "answer4": "лечение сердца",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает psychiatria?",
+    "answer1": "лечение психических заболеваний",
+    "answer2": "лечение костей",
+    "answer3": "лечение носа",
+    "answer4": "лечение дыхательных органов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает geriatria?",
+    "answer1": "лечение болезней пожилых людей",
+    "answer2": "лечение детей",
+    "answer3": "лечение костей",
+    "answer4": "лечение костей",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  }
+]

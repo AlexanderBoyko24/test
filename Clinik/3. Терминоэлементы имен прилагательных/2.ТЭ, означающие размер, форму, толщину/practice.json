@@ -1,0 +1,317 @@
+[
+  {
+    "type": "TEST",
+    "question": "Что означает термин Macrophagus?",
+    "answer1": "большой фагоцит",
+    "answer2": "маленький фагоцит",
+    "answer3": "тонкий фагоцит",
+    "answer4": "плоский фагоцит",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Macroglossia?",
+    "answer1": "увеличение языка",
+    "answer2": "уменьшение языка",
+    "answer3": "утолщение языка",
+    "answer4": "искривление языка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Megalocardia?",
+    "answer1": "увеличение сердца",
+    "answer2": "уменьшение сердца",
+    "answer3": "искривление сердца",
+    "answer4": "воспаление сердца",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Splenomegalia?",
+    "answer1": "увеличение селезёнки",
+    "answer2": "сужение селезёнки",
+    "answer3": "искривление селезёнки",
+    "answer4": "воспаление селезёнки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Microsomia?",
+    "answer1": "малорослость",
+    "answer2": "удлинение тела",
+    "answer3": "ожирение",
+    "answer4": "искривление позвоночника",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Microcephalia?",
+    "answer1": "уменьшение головы",
+    "answer2": "увеличение головы",
+    "answer3": "утолщение черепа",
+    "answer4": "отсутствие мозга",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Brachydactylia?",
+    "answer1": "короткие пальцы",
+    "answer2": "длинные пальцы",
+    "answer3": "искривлённые пальцы",
+    "answer4": "утолщённые пальцы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Brachycephalia?",
+    "answer1": "укороченная голова",
+    "answer2": "удлинённая голова",
+    "answer3": "плоская голова",
+    "answer4": "искривлённая голова",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Dolichocolon?",
+    "answer1": "удлинённая ободочная кишка",
+    "answer2": "утолщённая ободочная кишка",
+    "answer3": "суженная ободочная кишка",
+    "answer4": "воспалённая ободочная кишка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Dolichocephalia?",
+    "answer1": "длинная голова",
+    "answer2": "короткая голова",
+    "answer3": "широкая голова",
+    "answer4": "искривлённая голова",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Pachydermia?",
+    "answer1": "утолщение кожи",
+    "answer2": "воспаление кожи",
+    "answer3": "истончение кожи",
+    "answer4": "осветление кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Pachymeningitis?",
+    "answer1": "воспаление твёрдой мозговой оболочки",
+    "answer2": "воспаление мягкой оболочки",
+    "answer3": "разрастание нервов",
+    "answer4": "сужение сосудов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Leptomeninx?",
+    "answer1": "мягкая мозговая оболочка",
+    "answer2": "твёрдая мозговая оболочка",
+    "answer3": "утолщённая мозговая оболочка",
+    "answer4": "сросшаяся мозговая оболочка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Leptorhinia?",
+    "answer1": "тонкий (узкий) нос",
+    "answer2": "широкий нос",
+    "answer3": "длинный нос",
+    "answer4": "плоский нос",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Platypnoea?",
+    "answer1": "одышка в положении лёжа",
+    "answer2": "плоская грудная клетка",
+    "answer3": "сужение дыхательных путей",
+    "answer4": "затруднённое глотание",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Platyrhinia?",
+    "answer1": "плоский нос",
+    "answer2": "широкий нос",
+    "answer3": "длинный нос",
+    "answer4": "искривлённый нос",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Pylorostenosis?",
+    "answer1": "сужение привратника желудка",
+    "answer2": "воспаление желудка",
+    "answer3": "удлинение кишечника",
+    "answer4": "утолщение стенки желудка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Stenocardia?",
+    "answer1": "сужение сосудов сердца",
+    "answer2": "боль в сердце",
+    "answer3": "воспаление сердца",
+    "answer4": "расширение сосудов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Eurycephalia?",
+    "answer1": "широкая голова",
+    "answer2": "длинная голова",
+    "answer3": "узкая голова",
+    "answer4": "плоская голова",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Eurisomia?",
+    "answer1": "широкое тело",
+    "answer2": "узкое тело",
+    "answer3": "длинное тело",
+    "answer4": "тонкое тело",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Ankylosis?",
+    "answer1": "неподвижность сустава",
+    "answer2": "искривление позвоночника",
+    "answer3": "сращение костей черепа",
+    "answer4": "укорочение сухожилия",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Ankyloglossia?",
+    "answer1": "сращение языка (укорочение уздечки)",
+    "answer2": "удлинение языка",
+    "answer3": "воспаление языка",
+    "answer4": "искривление языка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Camptodactylia?",
+    "answer1": "согнутые пальцы",
+    "answer2": "искривлённые пальцы",
+    "answer3": "укороченные пальцы",
+    "answer4": "отсутствие пальцев",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Camptocormia?",
+    "answer1": "согнутая спина",
+    "answer2": "искривлённая нога",
+    "answer3": "утолщённая шея",
+    "answer4": "укороченный торс",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Scoliosis?",
+    "answer1": "искривление позвоночника",
+    "answer2": "сращение позвонков",
+    "answer3": "воспаление позвоночника",
+    "answer4": "утолщение спинного мозга",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Scoliokyphosis?",
+    "answer1": "боковое и заднее искривление позвоночника",
+    "answer2": "изгиб вперёд",
+    "answer3": "изгиб назад",
+    "answer4": "утолщение спинного канала",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Streptococcus?",
+    "answer1": "шаровидная бактерия, расположенная цепочкой",
+    "answer2": "спиралевидная бактерия",
+    "answer3": "цепочковидная бактерия",
+    "answer4": "палочковидная бактерия",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Streptobacillus?",
+    "answer1": "цепочковидная палочка",
+    "answer2": "шаровидная клетка",
+    "answer3": "спиралевидная бактерия",
+    "answer4": "двойная палочка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Spherocytus?",
+    "answer1": "шаровидный эритроцит",
+    "answer2": "сплющенный эритроцит",
+    "answer3": "овальный эритроцит",
+    "answer4": "искривлённый эритроцит",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Tracheostenosis?",
+    "answer1": "сужение трахеи",
+    "answer2": "воспаление трахеи",
+    "answer3": "расширение трахеи",
+    "answer4": "удлинение трахеи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Angiostenosis?",
+    "answer1": "сужение сосудов",
+    "answer2": "расширение сосудов",
+    "answer3": "воспаление сосудов",
+    "answer4": "искривление сосудов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Macroglossia?",
+    "answer1": "увеличение языка",
+    "answer2": "уменьшение языка",
+    "answer3": "искривление языка",
+    "answer4": "отсутствие языка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Micrognathia?",
+    "answer1": "уменьшение нижней челюсти",
+    "answer2": "увеличение нижней челюсти",
+    "answer3": "искривление нижней челюсти",
+    "answer4": "утолщение нижней челюсти",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Brachymelia?",
+    "answer1": "короткие конечности",
+    "answer2": "искривлённые конечности",
+    "answer3": "тонкие конечности",
+    "answer4": "длинные конечности",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин Pachysomia?",
+    "answer1": "утолщение тела",
+    "answer2": "истончение тела",
+    "answer3": "укорачивание тела",
+    "answer4": "удлинение тела",
+    "correctAnswer": "1"
+  }
+]

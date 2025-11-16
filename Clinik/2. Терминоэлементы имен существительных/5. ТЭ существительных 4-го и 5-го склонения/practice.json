@@ -1,0 +1,299 @@
+[
+  {
+    "type": "TEST",
+    "question": "Что означает термин chiropractica",
+    "answer1": "Мануальная терапия",
+    "answer2": "Изучение тканей",
+    "answer3": "Воспаление коленного сустава",
+    "answer4": "Графическая регистрация пульса",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин chiralgia",
+    "answer1": "Боль в руке или кисти",
+    "answer2": "Боль почек",
+    "answer3": "Боль колена",
+    "answer4": "Боль надгортанника",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин chiromantia",
+    "answer1": "Гадание по руке",
+    "answer2": "Гадание по костям",
+    "answer3": "Гадание по картам",
+    "answer4": "Гадание по сосудам",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин embryologia",
+    "answer1": "Наука о зародыше",
+    "answer2": "Наука о тканях",
+    "answer3": "Наука о сердце",
+    "answer4": "Наука о ЖКТ",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин embryopathia",
+    "answer1": "Болезнь зародыша",
+    "answer2": "Болезнь печени",
+    "answer3": "Болезнь надгортанника",
+    "answer4": "Болезнь почек",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин embryogenesis",
+    "answer1": "Процесс развития зародыша",
+    "answer2": "Процесс развития коленного сустава",
+    "answer3": "Процесс развития роговицы",
+    "answer4": "Процесс развития родов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин gonarthritis",
+    "answer1": "Воспаление коленного сустава",
+    "answer2": "Воспаление тканей",
+    "answer3": "Воспаление надгортанника",
+    "answer4": "Воспаление в руке",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин gonalgia",
+    "answer1": "Боль в колене",
+    "answer2": "Боль зародыша",
+    "answer3": "Боль в руке",
+    "answer4": "Боль в мозгу",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин histologia",
+    "answer1": "Наука о тканях",
+    "answer2": "Наука о крови",
+    "answer3": "Наука о нервной системе",
+    "answer4": "Наука о сердце",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин histopathologia",
+    "answer1": "Болезнь тканей",
+    "answer2": "Болезнь ног",
+    "answer3": "Болезнь зародыша",
+    "answer4": "Болезнь рук",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин histogenesis",
+    "answer1": "Процесс образования тканей",
+    "answer2": "Процесс образования опухоли",
+    "answer3": "Процесс образования конечностей",
+    "answer4": "Процесс образования легких",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин keratoplastica",
+    "answer1": "Хирургическая пластика роговицы",
+    "answer2": "Хирургическая пластика коленного сустава",
+    "answer3": "Хирургическая пластика носа",
+    "answer4": "Хирургическая пластика губ",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин keratitis",
+    "answer1": "Воспаление роговицы",
+    "answer2": "Воспаление кожи",
+    "answer3": "Воспаление века",
+    "answer4": "Воспаление глаза",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин keratopathia",
+    "answer1": "Болезнь роговицы",
+    "answer2": "Болезнь глаз",
+    "answer3": "Болезнь зародыша",
+    "answer4": "Болезнь поджелудочной железы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин sphygmomanometer",
+    "answer1": "Тонометр для измерения пульса",
+    "answer2": "Тонометр для измерения сердца",
+    "answer3": "Тонометр для измерения дыхания",
+    "answer4": "Тонометр для измерения фетальных движений",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин sphygmographia",
+    "answer1": "Графическая регистрация пульса",
+    "answer2": "Графическая регистрация сокращений матки",
+    "answer3": "Графическая регистрация зародыша",
+    "answer4": "Графическая регистрация импульсов мозга",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин tocolysis",
+    "answer1": "Медикаментозное подавление родовой деятельности",
+    "answer2": "Хирургическая пластика роговицы",
+    "answer3": "Боль в колене",
+    "answer4": "Графическая регистрация пульса",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин tocographia",
+    "answer1": "Регистрация родовой деятельности",
+    "answer2": "Регистрация движений плода",
+    "answer3": "Регистрация сердцебиения",
+    "answer4": "Регистрация мозговых импульсов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин chirurgus",
+    "answer1": " Врач, выполняющий операции руками",
+    "answer2": "Врач-специалист по опухолям",
+    "answer3": "Врач, работающий в морге",
+    "answer4": "Врач общей практики",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин gonarthrosis",
+    "answer1": "Дегенеративное поражение коленного сустава",
+    "answer2": "Дегенеративное поражение локтевого сустава",
+    "answer3": "Дегенеративное поражение плечевого сустава",
+    "answer4": "Дегенеративное поражение тазового сустава",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин prosopalgia",
+    "answer1": "Боль в лице",
+    "answer2": "Боль мышц",
+    "answer3": "Боль колена",
+    "answer4": "Боль в колене",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин prosopoplegia",
+    "answer1": "Паралич лицевых мышц",
+    "answer2": "Паралич конечностей",
+    "answer3": "Паралич желудка",
+    "answer4": "Тепловой удар",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин prosopospasmus",
+    "answer1": "Спазм лицевых мышц",
+    "answer2": "Спазм сердечной мышцы",
+    "answer3": "Спазм желудка",
+    "answer4": "Спазм суставов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин keratoma",
+    "answer1": "Роговое образование на коже, мозоль",
+    "answer2": "Воспаление роговицы",
+    "answer3": "Болезнь роговицы",
+    "answer4": "Хирургическая пластика роговицы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  },
+  {
+    "type": "",
+    "question": "",
+    "answer1": "",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "",
+    "correctAnswer": ""
+  }
+]

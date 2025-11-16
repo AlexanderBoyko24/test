@@ -1,0 +1,272 @@
+[
+  {
+    "type": "TEST",
+    "question": "Что означает encephalopathia?",
+    "answer1": "заболевание головного мозга",
+    "answer2": "заболевание печени",
+    "answer3": "заболевание сердца",
+    "answer4": "заболевание мышц",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает cardiomyopathia?",
+    "answer1": "заболевание сердечной мышцы",
+    "answer2": "заболевание почек",
+    "answer3": "заболевание легких",
+    "answer4": "заболевание суставов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает retinopathia?",
+    "answer1": "заболевание сетчатки глаза",
+    "answer2": "заболевание кожи",
+    "answer3": "заболевание костей",
+    "answer4": "заболевание крови",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hepatogramma?",
+    "answer1": "графическая запись функции печени",
+    "answer2": "графическая запись функции сердца",
+    "answer3": "графическая запись костной ткани",
+    "answer4": "графическая запись легких",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает osteogramma?",
+    "answer1": "графическая запись костей",
+    "answer2": "графическая запись мышц",
+    "answer3": "графическая запись кожи",
+    "answer4": "графическая запись сосудов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает myogramma?",
+    "answer1": "графическая запись работы мышц",
+    "answer2": "графическая запись сердца",
+    "answer3": "графическая запись легких",
+    "answer4": "графическая запись печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает nephrographia?",
+    "answer1": "рентгенологическое исследование почек",
+    "answer2": "рентген сердца",
+    "answer3": "рентген костей",
+    "answer4": "рентген легких",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hepatographia?",
+    "answer1": "рентген печени",
+    "answer2": "рентген сердца",
+    "answer3": "рентген легких",
+    "answer4": "рентген суставов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает stomatographia?",
+    "answer1": "рентген ротовой полости",
+    "answer2": "рентген зубов",
+    "answer3": "рентген носа",
+    "answer4": "рентген уха",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает otodynia?",
+    "answer1": "боль в ухе",
+    "answer2": "боль в сердце",
+    "answer3": "боль в животе",
+    "answer4": "боль в коже",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает pharyngodynia?",
+    "answer1": "боль в глотке",
+    "answer2": "боль в мышцах",
+    "answer3": "боль в костях",
+    "answer4": "боль в суставе",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hepatodynia?",
+    "answer1": "боль в печени",
+    "answer2": "боль в легких",
+    "answer3": "боль в сердце",
+    "answer4": "боль в почках",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает glossalgia?",
+    "answer1": "боль в языке",
+    "answer2": "боль в зубах",
+    "answer3": "боль в горле",
+    "answer4": "боль в спине",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает chondralgia?",
+    "answer1": "боль в хрящах",
+    "answer2": "боль в мышцах",
+    "answer3": "боль в сердце",
+    "answer4": "боль в печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает mastalgia?",
+    "answer1": "боль в молочной железе",
+    "answer2": "боль в плече",
+    "answer3": "боль в кисти",
+    "answer4": "боль в колене",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает agoraphobia?",
+    "answer1": "страх открытых пространств",
+    "answer2": "страх темноты",
+    "answer3": "страх воды",
+    "answer4": "страх высоты",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает necrophobia?",
+    "answer1": "страх смерти",
+    "answer2": "страх замкнутого пространства",
+    "answer3": "страх воды",
+    "answer4": "страх высоты",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает pyrophobia?",
+    "answer1": "страх огня",
+    "answer2": "страх воды",
+    "answer3": "страх высоты",
+    "answer4": "страх темноты",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает pyromania?",
+    "answer1": "болезненная страсть к поджогам",
+    "answer2": "страсть к еде",
+    "answer3": "страсть к игре",
+    "answer4": "страсть к путешествиям",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает kleptomania?",
+    "answer1": "патологическое воровство",
+    "answer2": "боязнь воды",
+    "answer3": "склонность к кровотечению",
+    "answer4": "боязнь света",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает toxicomania?",
+    "answer1": "болезненное пристрастие к токсическим веществам",
+    "answer2": "страсть к сладкому",
+    "answer3": "навязчивый страх перед болью",
+    "answer4": "патологическое накопительство",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает enteritis?",
+    "answer1": "воспаление кишечника",
+    "answer2": "воспаление печени",
+    "answer3": "воспаление сердца",
+    "answer4": "воспаление легких",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает dermatitis?",
+    "answer1": "воспаление кожи",
+    "answer2": "воспаление мышц",
+    "answer3": "воспаление костей",
+    "answer4": "воспаление суставов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает prostatitis?",
+    "answer1": "воспаление предстательной железы",
+    "answer2": "воспаление печени",
+    "answer3": "воспаление почек",
+    "answer4": "воспаление сердца",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает arthrosis?",
+    "answer1": "хроническое заболевание суставов",
+    "answer2": "воспаление суставов",
+    "answer3": "опухоль костей",
+    "answer4": "воспаление мышц",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает spondylosis?",
+    "answer1": "хроническое заболевание позвоночника",
+    "answer2": "воспаление почек",
+    "answer3": "опухоль сердца",
+    "answer4": "воспаление кожи",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает hepatosis?",
+    "answer1": "хроническое невоспалительное заболевание печени",
+    "answer2": "воспаление печени",
+    "answer3": "опухоль печени",
+    "answer4": "болезнь почек",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает pancreatitis?",
+    "answer1": "воспаление поджелудочной железы",
+    "answer2": "воспаление печени",
+    "answer3": "воспаление легких",
+    "answer4": "воспаление почек",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает prostatitis?",
+    "answer1": "воспаление предстательной железы",
+    "answer2": "воспаление почек",
+    "answer3": "воспаление мочевого пузыря",
+    "answer4": "воспаление печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает nephrosis?",
+    "answer1": "хроническое невоспалительное заболевание почек",
+    "answer2": "воспаление почек",
+    "answer3": "опухоль почек",
+    "answer4": "инфекция почек",
+    "correctAnswer": "1"
+  }
+]

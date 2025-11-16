@@ -1,0 +1,488 @@
+[
+  {
+    "type": "TEST",
+    "question": "Arthrectomia — это:",
+    "answer1": "удаление сустава",
+    "answer2": "удаление печени",
+    "answer3": "удаление почки",
+    "answer4": "удаление сердца",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Arthroscopia — это:",
+    "answer1": "осмотр сустава",
+    "answer2": "осмотр печени",
+    "answer3": "осмотр легкого",
+    "answer4": "осмотр желудка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Arthritis — это:",
+    "answer1": "воспаление сустава",
+    "answer2": "воспаление печени",
+    "answer3": "воспаление почки",
+    "answer4": "воспаление головы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Cephaloscopia — это:",
+    "answer1": "осмотр головы",
+    "answer2": "осмотр сердца",
+    "answer3": "осмотр печени",
+    "answer4": "осмотр лёгкого",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Cephaloradiographia — это:",
+    "answer1": "рентген головы",
+    "answer2": "рентген почки",
+    "answer3": "рентген лёгкого",
+    "answer4": "рентген сустава",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Cephalonecrosis — это:",
+    "answer1": "некроз головы",
+    "answer2": "некроз печени",
+    "answer3": "некроз лёгкого",
+    "answer4": "некроз кости",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Carcinogen — это:",
+    "answer1": "вещество, вызывающее рак",
+    "answer2": "вещество, вызывающее воспаление",
+    "answer3": "вещество, вызывающее паралич",
+    "answer4": "вещество, вызывающее некроз",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Pathogenesis — это:",
+    "answer1": "процесс развития болезни",
+    "answer2": "метод лечения болезни",
+    "answer3": "излечение болезни",
+    "answer4": "отсутсвтие лечения болезни",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Regeneratio — это:",
+    "answer1": "восстановление тканей или органов",
+    "answer2": "воспаление тканей",
+    "answer3": "разрушение тканей",
+    "answer4": "паралич тканей",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Hematoma — это:",
+    "answer1": "скопление крови вне сосудов",
+    "answer2": "воспаление печени",
+    "answer3": "разрушение кости",
+    "answer4": "паралич руки",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Hematuria — это:",
+    "answer1": "наличие крови в моче",
+    "answer2": "наличие белка в крови",
+    "answer3": "наличие гноя в моче",
+    "answer4": "наличие камней в почках",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Anemia — это:",
+    "answer1": "снижение уровня гемоглобина или эритроцитов",
+    "answer2": "воспаление печени",
+    "answer3": "паралич ног",
+    "answer4": "скопление жидкости в тканях",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает podectomia?",
+    "answer1": "удаление ноги",
+    "answer2": "удаление руки",
+    "answer3": "удаление сердца",
+    "answer4": "удаление печени",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает podologia?",
+    "answer1": "наука о лечении ног",
+    "answer2": "наука о лечении рук",
+    "answer3": "наука о лечении головы",
+    "answer4": "наука о лечении зубов",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает rhizotomia?",
+    "answer1": "рассечение корешка нерва",
+    "answer2": "рассечение печени",
+    "answer3": "рассечение селезёнки",
+    "answer4": "рассечение кости",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин somatotomia?",
+    "answer1": "рассечение тела",
+    "answer2": "удаление тела",
+    "answer3": "осмотр тела",
+    "answer4": "расширение тела",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин somatoscopia?",
+    "answer1": " осмотр тела ",
+    "answer2": "осмотр сердца",
+    "answer3": "осмотр печени ",
+    "answer4": "осмотр уха ",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": " Что означает термин somatomegalia?",
+    "answer1": "увеличение тела",
+    "answer2": "увеличение печени",
+    "answer3": "увеличение уха",
+    "answer4": "увеличение сердца",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин stomatitis?",
+    "answer1": "воспаление рта",
+    "answer2": "воспаление печени",
+    "answer3": "воспаление уха",
+    "answer4": "воспаление сердца",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин stomatologia?",
+    "answer1": "наука о ротовой полости",
+    "answer2": "наука о печени",
+    "answer3": "наука об ухе",
+    "answer4": "наука о сердце",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин stomatorrhagia?",
+    "answer1": "кровотечение из рта",
+    "answer2": "кровотечение из печени",
+    "answer3": "кровотечение из уха",
+    "answer4": "кровотечение из сердца",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин pneumonectomia?",
+    "answer1": "удаление лёгкого",
+    "answer2": "удаление печени",
+    "answer3": "удаление уха",
+    "answer4": "удаление сердца",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин pneumonotomy",
+    "answer1": "вскрытие лёгкого / рассечение лёгкого",
+    "answer2": "вскрытие селезенки",
+    "answer3": "вскрытие ноги",
+    "answer4": "вскрытие тела",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин pneumonorrhaphia?",
+    "answer1": "шов лёгкого / наложение шва на лёгкое",
+    "answer2": "шов рта",
+    "answer3": "шов уха",
+    "answer4": "шов головы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин thermometria?",
+    "answer1": "измерение температуры",
+    "answer2": "измерение крови",
+    "answer3": "измерение тела",
+    "answer4": "измерение сердца",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин thermotherapia?",
+    "answer1": "лечение с помощью тепла",
+    "answer2": "лечение водой",
+    "answer3": "лечение холодом",
+    "answer4": "лечение спиртами",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин thermoplegia?",
+    "answer1": "тепловой удар",
+    "answer2": "паралич печени",
+    "answer3": "паралич мышцы",
+    "answer4": "паралич желудка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин anthropometria?",
+    "answer1": "измерение параметров человека",
+    "answer2": "измерение ноги",
+    "answer3": "измерение руки",
+    "answer4": "измерение головы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин anthropogenesis?",
+    "answer1": "происхождение человека",
+    "answer2": "происхождение животного",
+    "answer3": "происхождение насекомого",
+    "answer4": "происхождение болезни",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин anthropologia?",
+    "answer1": "наука о человеке",
+    "answer2": "наука о печени",
+    "answer3": "наука о крови",
+    "answer4": "наука о кишечнике",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин meningitis?",
+    "answer1": "воспаление оболочек мозга",
+    "answer2": "воспаление носа",
+    "answer3": "воспаление уха",
+    "answer4": "воспаление рта",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин meningotomia?",
+    "answer1": "рассечение оболочек мозга",
+    "answer2": "рассечение гортани",
+    "answer3": "рассечение глотки",
+    "answer4": "рассечение десны",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин meningioma?",
+    "answer1": "опухоль оболочек мозга",
+    "answer2": "опухоль глаза",
+    "answer3": "опухоль сердца",
+    "answer4": "опухоль сосуда",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин chondritis?",
+    "answer1": "воспаление хряща",
+    "answer2": "воспаление сустава",
+    "answer3": "воспаление печени",
+    "answer4": "воспаление желудка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин chondrectomia?",
+    "answer1": "удаление хряща",
+    "answer2": "удаление ноги",
+    "answer3": "удаление пальца",
+    "answer4": "удаление кости",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин chondromegalia?",
+    "answer1": "увеличение хряща",
+    "answer2": "увеличение конечности",
+    "answer3": "увеличение количества жидкости",
+    "answer4": "увеличение сердца",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин lipoma?",
+    "answer1": "опухоль жировой ткани",
+    "answer2": "опухоль костной ткани",
+    "answer3": "опухоль мертвой ткани",
+    "answer4": "опухоль мышечной ткани",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин lipotomia?",
+    "answer1": "рассечение жировой ткани",
+    "answer2": "рассечение костной ткани",
+    "answer3": "рассечение мертвой ткани",
+    "answer4": "рассечение мышечной ткани",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин spermatitis?",
+    "answer1": "воспаление семенного канатика",
+    "answer2": "воспаление селезенки",
+    "answer3": "воспаление поджелудочной железы",
+    "answer4": "воспаление мозга",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин spermogramma?",
+    "answer1": "исследование семени (спермограмма)",
+    "answer2": "исследование носа",
+    "answer3": "исследование уха",
+    "answer4": "исследование глаза",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин blastoma?",
+    "answer1": "опухоль зачатка",
+    "answer2": "опухоль нерва",
+    "answer3": "опухоль мышцы",
+    "answer4": "опухоль кости",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин blastolysis?",
+    "answer1": "разрушение зачатка",
+    "answer2": "разрушение зуба",
+    "answer3": "разрушение кости",
+    "answer4": "разрушение сосуда",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин odontorrhagia?",
+    "answer1": "кровотечение из зуба",
+    "answer2": "кровотечение из печени",
+    "answer3": "кровотечение из матки",
+    "answer4": "кровотечение из яичника",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин odontectomia?",
+    "answer1": "удаление зуба",
+    "answer2": "удаление части мозга",
+    "answer3": "удаление языка",
+    "answer4": "удаление сосуда",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин odontoclasia?",
+    "answer1": "разрушение зуба",
+    "answer2": "разрушение печени",
+    "answer3": "разрушение желудка",
+    "answer4": "разрушение предсердия",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин dermatitis?",
+    "answer1": "воспаление кожи",
+    "answer2": "воспаление нерва",
+    "answer3": "воспаление уха",
+    "answer4": "воспаление мышцы",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин dermatoplastica?",
+    "answer1": "пластическая операция на коже",
+    "answer2": "пластическая операция лица",
+    "answer3": "пластическая операция уха",
+    "answer4": "пластическая операция века",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин dermopyorrhea?",
+    "answer1": "гнойное воспаление кожи",
+    "answer2": "гнойное воспаление печени",
+    "answer3": "гнойное воспаление уха",
+    "answer4": "гнойное воспаление пальца",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин ostectomia?",
+    "answer1": "удаление кости",
+    "answer2": "удаление руки",
+    "answer3": "удаление уха",
+    "answer4": "удаление глаза",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин osteomalacia?",
+    "answer1": "размягчение кости",
+    "answer2": "размягчение мышцы",
+    "answer3": "размягчение мозга",
+    "answer4": "размягчение вены",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин osteopathia?",
+    "answer1": "заболевание кости",
+    "answer2": "заболевание зуба",
+    "answer3": "заболевание рта",
+    "answer4": "заболевание ЖКТ",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин otitis?",
+    "answer1": "воспаление уха",
+    "answer2": "воспаление носа",
+    "answer3": "воспаление неба",
+    "answer4": "воспаление языка",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин otoscopia?",
+    "answer1": "осмотр уха",
+    "answer2": "осмотр влагалища",
+    "answer3": "осмотр матки",
+    "answer4": "осмотр сердца",
+    "correctAnswer": "1"
+  },
+  {
+    "type": "TEST",
+    "question": "Что означает термин otorrhagia?",
+    "answer1": "кровотечение из уха",
+    "answer2": "кровотечение из печени",
+    "answer3": "кровотечение из носа",
+    "answer4": "кровотечение из вены",
+    "correctAnswer": "1"
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "type": "",
+    "type": "TEST",
     "question": "Что означает термин schizophrenia?",
     "answer1": "расщепление психических функций",
     "answer2": "расщепление мозга",
@@ -9,7 +9,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "Что означает термин oligophrenia?",
     "answer1": "умственная отсталость",
     "answer2": "речевая отсталость",
@@ -18,7 +18,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "3.Что означает термин angiographia?",
     "answer1": "рентгенологическое исследование сосудов",
     "answer2": "рентгенологическое исследование сердца",
@@ -27,7 +27,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "4. Что означает термин angiopathia?",
     "answer1": "заболевание сосудов",
     "answer2": "заболевание пищевода",
@@ -36,7 +36,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "5. Что означает термин angiectomia?",
     "answer1": "удаление сосуда",
     "answer2": "удаление органа",
@@ -45,7 +45,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "6. Что означает термин paediatria?",
     "answer1": "лечение детей",
     "answer2": "лечение сосудов",
@@ -54,7 +54,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "7. Что означает термин paedodontia?",
     "answer1": "лечение зубов у детей",
     "answer2": "лечение зубов у взрослых",
@@ -63,7 +63,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "8. Что означает термин aphonia?",
     "answer1": "Полная потеря голоса",
     "answer2": "Полная потеря слуха",
@@ -72,7 +72,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "9. Что означает термин hypophonia?",
     "answer1": "Слабый, тихий голос",
     "answer2": "Плохое зрение",
@@ -81,7 +81,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "10. Что означает термин dysphonia?",
     "answer1": "Нарушение голоса",
     "answer2": "Нарушение кровообращенияНарушение",
@@ -90,7 +90,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "11. Что означает термин phthisiatria?",
     "answer1": "Лечение туберкулезаЛечение почки",
     "answer2": "Лечение мозга",
@@ -99,7 +99,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "12. Что означает термин phthisophobia?",
     "answer1": "Страх заболеть туберкулезом",
     "answer2": "Страх заболеть раком",
@@ -108,7 +108,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "13. Что означает термин cardiologia",
     "answer1": "Изучение сердца",
     "answer2": "Изучение почек",
@@ -117,7 +117,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "14. Что означает термин cardiopathia",
     "answer1": "Болезнь сердца",
     "answer2": "Болезнь лёгких",
@@ -126,7 +126,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "15. Что означает термин myocarditis",
     "answer1": "Воспаление сердца",
     "answer2": "Воспаление суставов",
@@ -135,7 +135,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "16. Что означает термин hepatitis",
     "answer1": "Воспаление печени",
     "answer2": "Воспаление почек",
@@ -144,7 +144,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "17. Что означает термин hepatomegalia",
     "answer1": "Увеличение печени",
     "answer2": "Увеличение почки",
@@ -153,7 +153,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "18. Что означает термин hepatorrhagia",
     "answer1": "Кровотечение из печени",
     "answer2": "Кровотечение из уха",
@@ -162,7 +162,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "19. Что означает термин laparotomia",
     "answer1": "Разрез брюшной стенки",
     "answer2": "Разрез печени",
@@ -171,7 +171,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "20. Что означает термин laparoscopia",
     "answer1": "Эндоскопическое исследование брюшной полости",
     "answer2": "Эндоскопическое исследование матки",
@@ -180,7 +180,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "21. Что означает термин laparalgia",
     "answer1": "Боль в животе",
     "answer2": "Боль в ухе",
@@ -189,7 +189,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "22. Что означает термин nephritis",
     "answer1": "Воспаление почки",
     "answer2": "Воспаление печени",
@@ -198,7 +198,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "23. Что означает термин nephrolithiasis",
     "answer1": "Камни в почках",
     "answer2": "Камни в сосуде",
@@ -207,7 +207,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "24. Что означает термин nephrectomia",
     "answer1": "Хирургическое удаление почки",
     "answer2": "Хирургическое удаление руки",
@@ -216,7 +216,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "25. Что означает термин pyelitis",
     "answer1": "Воспаление почечной лоханки",
     "answer2": "Воспаление почки",
@@ -225,7 +225,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "26. Что означает термин pyelonephritis",
     "answer1": "Воспаление почки и почечной лоханки",
     "answer2": "Воспаление печени и почки",
@@ -234,7 +234,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "27. Что означает термин splenomegalia",
     "answer1": "Увеличение селезёнки",
     "answer2": "Увеличение печени",
@@ -243,7 +243,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "28. Что означает термин splenectomia",
     "answer1": "Хирургическое удаление селезёнки",
     "answer2": "Воспаление селезёнки",
@@ -252,7 +252,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "29. Что означает термин splenitis",
     "answer1": "Воспаление селезёнки",
     "answer2": "Воспаление гортани",
@@ -261,7 +261,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "30. Что означает термин cholecystitis",
     "answer1": "Воспаление желчного пузыря",
     "answer2": "Воспаление печени",
@@ -270,7 +270,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "31. Что означает термин cholelithiasis",
     "answer1": "Камни в желчном пузыре",
     "answer2": "Камни в мочевом пузыре",
@@ -279,7 +279,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "32. Что означает термин cholecystectomia",
     "answer1": "Хирургическое удаление желчного пузыря",
     "answer2": "Хирургическое удаление уха",
@@ -288,7 +288,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "33. Что означает термин agalactia",
     "answer1": "Отсутствие выделения молока",
     "answer2": "Отсутствие выделения крови",
@@ -297,7 +297,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "34. Что означает термин hypogalactia",
     "answer1": "Недостаточное выделение молока",
     "answer2": "Недостаточное выделение желчи",
@@ -306,7 +306,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "35. Что означает термин galactostasis",
     "answer1": "Застой молока в молочной железе",
     "answer2": "Застой желчи",
@@ -315,7 +315,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "36. Что означает термин meningitis",
     "answer1": "Воспаление мозговых оболочек",
     "answer2": "Воспаление печени",
@@ -324,7 +324,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "37. Что означает термин meningopathia",
     "answer1": "Болезнь мозговых оболочек",
     "answer2": "Болезнь мышц",
@@ -333,7 +333,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "38. Что означает термин meningioma",
     "answer1": "Опухоль мозговой оболочки",
     "answer2": "Опухоль нервов",
@@ -342,7 +342,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "39. Что означает термин stethalgia",
     "answer1": "Боль в груди",
     "answer2": "Боль в лёгких",
@@ -351,7 +351,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "40. то означает термин stethoscopia",
     "answer1": "Аускультация грудной клетки",
     "answer2": "Аускультация печени",
@@ -360,7 +360,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "41. Что означает термин stethometria",
     "answer1": "Измерение параметров грудной клетки",
     "answer2": "Измерение параметров сердца",
@@ -369,7 +369,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "42. Что означает термин onychomycosis",
     "answer1": "Грибковое поражение ногтей",
     "answer2": "Грибковое поражение кожи",
@@ -378,7 +378,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "43. Что означает термин onychitis",
     "answer1": "Воспаление ногтя",
     "answer2": "Воспаление пальца",
@@ -387,7 +387,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "44. Что означает термин laryngitis",
     "answer1": "Воспаление гортани",
     "answer2": "Воспаление лёгких",
@@ -396,7 +396,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "45. Что означает термин laryngoscopia",
     "answer1": "Эндоскопическое исследование гортани",
     "answer2": "Эндоскопическое исследование уха",
@@ -405,7 +405,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "46. Что означает термин laryngotomia",
     "answer1": "Хирургический разрез гортани",
     "answer2": "Хирургический разрез печени",
@@ -414,7 +414,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "47. Что означает термин pharyngitis",
     "answer1": "Воспаление глотки",
     "answer2": "Воспаление гортани",
@@ -423,7 +423,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "48. Что означает термин pharyngopathy",
     "answer1": "Болезнь глотки",
     "answer2": "Болезнь печени",
@@ -432,7 +432,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "49. Что означает термин epiglottotomia",
     "answer1": "Хирургический разрез надгортанника",
     "answer2": "Хирургический разрез ротовой полости",
@@ -441,7 +441,7 @@
     "correctAnswer": "1"
   },
   {
-    "type": "",
+    "type": "TEST",
     "question": "50. Что означает термин epiglottitis",
     "answer1": "Воспаление надгортанника",
     "answer2": "Воспаление глотки",

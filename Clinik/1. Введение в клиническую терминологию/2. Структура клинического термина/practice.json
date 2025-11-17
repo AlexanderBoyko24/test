@@ -5,7 +5,8 @@
     "correctAnswer": "1",
     "answer1": "fractura transversa basis cranii ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -13,7 +14,8 @@
     "correctAnswer": "1",
     "answer1": "sclerosis arteriarum coronariarum cordis ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -21,7 +23,8 @@
     "correctAnswer": "1",
     "answer1": "syndromum insufficientiae hepatis ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -29,7 +32,8 @@
     "correctAnswer": "1",
     "answer1": "inflammatio hepatis",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -37,7 +41,8 @@
     "correctAnswer": "1",
     "answer1": "ruptura lienis ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -45,7 +50,8 @@
     "correctAnswer": "1",
     "answer1": "insufficientia renalis acuta ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -53,7 +59,8 @@
     "correctAnswer": "1",
     "answer1": "ruptura septi interventricularis ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -61,7 +68,8 @@
     "correctAnswer": "1",
     "answer1": "insufficiencia acuta valvae cordis ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -69,7 +77,8 @@
     "correctAnswer": "1",
     "answer1": "vitium acquisitum cordis ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -77,7 +86,8 @@
     "correctAnswer": "1",
     "answer1": "ulcus varicosum",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -85,7 +95,8 @@
     "correctAnswer": "1",
     "answer1": "tumor benignus nasi",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -93,7 +104,8 @@
     "correctAnswer": "1",
     "answer1": "psychosis acuta",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -101,7 +113,8 @@
     "correctAnswer": "1",
     "answer1": "psychosis chronica",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -109,7 +122,8 @@
     "correctAnswer": "1",
     "answer1": "glaucoma malignum",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -117,7 +131,8 @@
     "correctAnswer": "1",
     "answer1": "morbus ischaemicus cordis ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -125,7 +140,8 @@
     "correctAnswer": "1",
     "answer1": "порок митрального клапана ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -133,7 +149,8 @@
     "correctAnswer": "1",
     "answer1": "острая язва",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -141,7 +158,8 @@
     "correctAnswer": "1",
     "answer1": "хроническая язва ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -149,7 +167,8 @@
     "correctAnswer": "1",
     "answer1": "злокачественная опухоль ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -157,7 +176,8 @@
     "correctAnswer": "1",
     "answer1": "доброкачественная опухоль",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -165,7 +185,8 @@
     "correctAnswer": "1",
     "answer1": "язва желудка ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -173,7 +194,8 @@
     "correctAnswer": "1",
     "answer1": "язва двенадцатиперстной кишки ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -181,7 +203,8 @@
     "correctAnswer": "1",
     "answer1": "медикаментозная желтуха ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -189,7 +212,8 @@
     "correctAnswer": "1",
     "answer1": "злокачественная желтуха ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -197,7 +221,8 @@
     "correctAnswer": "1",
     "answer1": "физиологическая желтуха ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -205,7 +230,8 @@
     "correctAnswer": "1",
     "answer1": "токсическая желтуха ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -213,7 +239,8 @@
     "correctAnswer": "1",
     "answer1": "физиологическая желтуха новорожденных ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -221,7 +248,8 @@
     "correctAnswer": "1",
     "answer1": "некроз мышцы ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -229,7 +257,8 @@
     "correctAnswer": "1",
     "answer1": "отек лица ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "QUESTION",
@@ -237,7 +266,8 @@
     "correctAnswer": "1",
     "answer1": "острый некроз поджелудочной железы ",
     "answer2": "",
-    "answer3": ""
+    "answer3": "",
+    "answer4": ""
   },
   {
     "type": "TEST",
@@ -245,7 +275,8 @@
     "correctAnswer": "1",
     "answer1": "morbus infectiosus",
     "answer2": "infarctus cordis",
-    "answer3": "fractura cranii"
+    "answer3": "syndromum nervi",
+    "answer4": "fractura cranii"
   },
   {
     "type": "TEST",
@@ -253,7 +284,8 @@
     "correctAnswer": "1",
     "answer1": "fractura basis cranii",
     "answer2": "pneumonia",
-    "answer3": "colica"
+    "answer3": "abscessus",
+    "answer4": "colica"
   },
   {
     "type": "TEST",
@@ -261,7 +293,8 @@
     "correctAnswer": "1",
     "answer1": "уточняет принадлежность",
     "answer2": "указывает на воспаление",
-    "answer3": "ставится всегда в конце"
+    "answer3": "согласуется по роду",
+    "answer4": "ставится всегда в конце"
   },
   {
     "type": "TEST",
@@ -269,7 +302,8 @@
     "correctAnswer": "1",
     "answer1": "infarctus myocardii",
     "answer2": "morbus acutus",
-    "answer3": "sclerosis disseminata"
+    "answer3": "cancer malignus",
+    "answer4": "sclerosis disseminata"
   },
   {
     "type": "TEST",
@@ -277,7 +311,8 @@
     "correctAnswer": "1",
     "answer1": "оба содержат родительный падеж",
     "answer2": "оба согласованы по падежу",
-    "answer3": "оба являются простыми"
+    "answer3": "оба содержат прилагательные",
+    "answer4": "оба являются простыми"
   },
   {
     "type": "TEST",
@@ -285,7 +320,8 @@
     "correctAnswer": "1",
     "answer1": "существительное + прилагательное/род. падеж",
     "answer2": "наречие + существительное",
-    "answer3": "прилагательное + глагол"
+    "answer3": "глагол + существительное",
+    "answer4": "прилагательное + глагол"
   },
   {
     "type": "TEST",
@@ -293,7 +329,8 @@
     "correctAnswer": "1",
     "answer1": "morbus cordis",
     "answer2": "morbus cordi",
-    "answer3": "morbus cordae"
+    "answer3": "morbus cordem",
+    "answer4": "morbus cordae"
   },
   {
     "type": "TEST",
@@ -301,7 +338,8 @@
     "correctAnswer": "1",
     "answer1": "morbus acuta",
     "answer2": "sclerosis disseminata",
-    "answer3": "ruptura uteri"
+    "answer3": "insufficientia acuta",
+    "answer4": "ruptura uteri"
   },
   {
     "type": "TEST",
@@ -309,7 +347,8 @@
     "correctAnswer": "1",
     "answer1": "fractura basis cranii",
     "answer2": "infarctus myocardii",
-    "answer3": "sclerosis multiplex"
+    "answer3": "abscessus cerebri",
+    "answer4": "sclerosis multiplex"
   },
   {
     "type": "TEST",
@@ -317,7 +356,8 @@
     "correctAnswer": "1",
     "answer1": "colica",
     "answer2": "infarctus myocardii",
-    "answer3": "fractura cruris"
+    "answer3": "syndromum cerebri",
+    "answer4": "fractura cruris"
   },
   {
     "type": "TEST",
@@ -325,7 +365,8 @@
     "correctAnswer": "1",
     "answer1": "morbus infectiosus",
     "answer2": "ruptura ligamenti",
-    "answer3": "vitium pulmonum"
+    "answer3": "infarctus cordis",
+    "answer4": "vitium pulmonum"
   },
   {
     "type": "TEST",
@@ -333,7 +374,8 @@
     "correctAnswer": "1",
     "answer1": "существительное в родительном падеже",
     "answer2": "прилагательное",
-    "answer3": "множественное число в дательном падеже"
+    "answer3": "наречие",
+    "answer4": "множественное число в дательном падеже"
   },
   {
     "type": "TEST",
@@ -341,7 +383,8 @@
     "correctAnswer": "1",
     "answer1": "Согласуется с sclerosis по роду, числу и падежу",
     "answer2": "Определяет локализацию",
-    "answer3": "Не влияет на структуру"
+    "answer3": "Выражает симптом",
+    "answer4": "Не влияет на структуру"
   },
   {
     "type": "TEST",
@@ -349,7 +392,8 @@
     "correctAnswer": "1",
     "answer1": "infarctus cordis",
     "answer2": "infectiosus morbus",
-    "answer3": "nervus acutus"
+    "answer3": "comminutiva fractura",
+    "answer4": "nervus acutus"
   },
   {
     "type": "TEST",
@@ -357,7 +401,8 @@
     "correctAnswer": "1",
     "answer1": "inflammatio acutus",
     "answer2": "cancer cervicis",
-    "answer3": "insufficientia valvae mitralis"
+    "answer3": "fractura basis cranii",
+    "answer4": "insufficientia valvae mitralis"
   },
   {
     "type": "TEST",
@@ -365,7 +410,8 @@
     "correctAnswer": "1",
     "answer1": "fractura transversa",
     "answer2": "sclerosis disseminatus",
-    "answer3": "ruptura femoris dextrum"
+    "answer3": "morbus acuta",
+    "answer4": "ruptura femoris dextrum"
   },
   {
     "type": "TEST",
@@ -373,7 +419,8 @@
     "correctAnswer": "1",
     "answer1": "fractura comminutiva cruris",
     "answer2": "infarctus musculi myocardii ",
-    "answer3": "sclerosis tendonum multiplicium"
+    "answer3": "ruptura cordis hominis",
+    "answer4": "sclerosis tendonum multiplicium"
   },
   {
     "type": "TEST",
@@ -381,7 +428,8 @@
     "correctAnswer": "1",
     "answer1": "порядок слов",
     "answer2": "согласование прилагательного",
-    "answer3": "падеж существительного"
+    "answer3": "управление",
+    "answer4": "падеж существительного"
   },
   {
     "type": "TEST",
@@ -389,7 +437,8 @@
     "correctAnswer": "1",
     "answer1": "acutus",
     "answer2": "cordis",
-    "answer3": "myocardii"
+    "answer3": "cerebri",
+    "answer4": "myocardii"
   },
   {
     "type": "TEST",
@@ -397,7 +446,8 @@
     "correctAnswer": "1",
     "answer1": "morbus infectiosus",
     "answer2": "acuta insufficientia",
-    "answer3": "uteri ruptura"
+    "answer3": "cordis vitium",
+    "answer4": "uteri ruptura"
   },
   {
     "type": "TEST",
@@ -405,7 +455,8 @@
     "correctAnswer": "1",
     "answer1": "humeri",
     "answer2": "fractura",
-    "answer3": ""
+    "answer3": "transversa",
+    "answer4": ""
   },
   {
     "type": "TEST",
@@ -413,7 +464,8 @@
     "correctAnswer": "1",
     "answer1": "sclerosis arteriarum cardiacarum coronariarum",
     "answer2": "inflammatio lobi hepatis",
-    "answer3": "ruptura longitudinalis musculi colli "
+    "answer3": "oedema pulmonis dextri",
+    "answer4": "ruptura longitudinalis musculi colli "
   },
   {
     "type": "TEST",
@@ -421,7 +473,8 @@
     "correctAnswer": "1",
     "answer1": "morbus myocardii",
     "answer2": "ruptura cordem",
-    "answer3": "fractura basis cranium"
+    "answer3": "sclerosis disseminatus",
+    "answer4": "fractura basis cranium"
   },
   {
     "type": "TEST",
@@ -429,7 +482,8 @@
     "correctAnswer": "1",
     "answer1": "в обоих — родительный падеж",
     "answer2": "в обоих есть прилагательное",
-    "answer3": "у обоих есть согласованное определение в род.падеже"
+    "answer3": "оба простые термины",
+    "answer4": "у обоих есть согласованное определение в род.падеже"
   },
   {
     "type": "TEST",
@@ -437,7 +491,8 @@
     "correctAnswer": "1",
     "answer1": "infarctus cordae",
     "answer2": "ruptura uteri",
-    "answer3": "vitium pulmonum"
+    "answer3": "morbus cordis",
+    "answer4": "vitium pulmonum"
   },
   {
     "type": "TEST",
@@ -445,7 +500,8 @@
     "correctAnswer": "1",
     "answer1": "morbus acutus cordis",
     "answer2": "fractura basis cranii",
-    "answer3": "cordis vitium acutum"
+    "answer3": "infectiosus morbus cordis",
+    "answer4": "cordis vitium acutum"
   },
   {
     "type": "TEST",
@@ -453,7 +509,8 @@
     "correctAnswer": "1",
     "answer1": "morbus infectiosus",
     "answer2": "infarctus myocardii",
-    "answer3": "abscessus hepatis"
+    "answer3": "ruptura basis cranii",
+    "answer4": "abscessus hepatis"
   },
   {
     "type": "TEST",
@@ -461,7 +518,8 @@
     "correctAnswer": "1",
     "answer1": "infarctus myocardii ",
     "answer2": "ruptura cordem",
-    "answer3": "fractura cranii basis"
+    "answer3": "morbus acutusum",
+    "answer4": "fractura cranii basis"
   },
   {
     "type": "TEST",
@@ -469,7 +527,8 @@
     "correctAnswer": "1",
     "answer1": "sclerosis disseminata ",
     "answer2": "morbus acuta",
-    "answer3": "ruptura uteri"
+    "answer3": "infarctus cordis",
+    "answer4": "ruptura uteri"
   },
   {
     "type": "TEST",
@@ -477,6 +536,7 @@
     "correctAnswer": "1",
     "answer1": "abscessus ",
     "answer2": "fractura basis cranii",
-    "answer3": "morbus infectiosus"
+    "answer3": "syndromum nervi",
+    "answer4": "morbus infectiosus"
   }
 ]

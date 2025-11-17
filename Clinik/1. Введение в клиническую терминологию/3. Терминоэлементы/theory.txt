@@ -1,0 +1,46 @@
+<h2 style="text-align: center;"><span style="color: #ff6600;"><strong>Понятие о терминоэлементе (ТЭ) в медицинской клинической латинской терминологии</strong></span></h2>
+<h3 style="text-align: justify;"><span style="color: #ff6600;"><strong>&nbsp; &nbsp;Терминоэлемент (ТЭ)</strong> &mdash; это <strong>устойчивый морфемный компонент (часть слова)</strong>, из которого строятся термины в медицинской латинской терминологии.</span> Он может быть:<br /><strong>Корнем<br /></strong><strong>Приставкой<br /></strong><strong>Суффиксом</strong></h3>
+<h3 style="text-align: justify;">&nbsp; &nbsp;Терминоэлементы часто заимствуются из <strong>греческого и латинского языков</strong> и обладают <strong>определённым значением</strong>, которое сохраняется при образовании новых терминов.</h3>
+<h3 style="text-align: center;">◃───────────▹</h3>
+<h2 style="text-align: center;"><span style="color: #ff6600;"><strong>Виды терминоэлементов:</strong></span></h2>
+<h3><span style="color: #ff6600;"><strong>&nbsp; &nbsp;Приставка (префикс)</strong></span><br />&nbsp; &nbsp;Ставится в начале слова, уточняет или изменяет его значение.<br /><br /> <span style="color: #ff6600;"><strong>Примеры</strong>:</span><br /><em><span style="color: #ff6600;">hyper</span>-</em> &mdash; повышенный<br /><em><span style="color: #ff6600;">hypo</span>-</em> &mdash; пониженный<br /><em><span style="color: #ff6600;">tachy</span>-</em> &mdash; быстрый<br /><em><span style="color: #ff6600;">brady</span>-</em> &mdash; медленный</h3>
+<h3><span style="color: #ff6600;"><strong>&nbsp; &nbsp;Корень</strong></span><br />&nbsp; &nbsp;Несёт основное лексическое значение термина, указывает на орган, систему, функцию или процесс.<br /><br /> <strong>Примеры</strong>:<br /><em><span style="color: #ff6600;">cardi</span>-</em> &mdash; сердце<br /><em><span style="color: #ff6600;">nephr</span>-</em> &mdash; почка<br /><em><span style="color: #ff6600;">hepat</span>-</em> &mdash; печень<br /><em><span style="color: #ff6600;">oste</span>-</em> &mdash; кость</h3>
+<h3><span style="color: #ff6600;"><strong>&nbsp; &nbsp;Суффикс</strong></span><br />&nbsp; &nbsp;Завершает слово, указывает на патологическое состояние, процесс, процедуру или специализацию.<br /><br /> <strong>Примеры</strong>:<br /><em>-<span style="color: #ff6600;">itis</span></em> &mdash; воспаление<br /><em>-<span style="color: #ff6600;">algia</span></em> &mdash; боль<br /><em>-<span style="color: #ff6600;">oma</span></em> &mdash; опухоль<br /><em>-<span style="color: #ff6600;">logia</span></em> &mdash; наука, изучение</h3>
+<h3 style="text-align: center;">◃───────────▹</h3>
+<h2 style="text-align: center;"><span style="color: #ff6600;"><strong>Пример анализа термина:</strong></span></h2>
+<h3><strong><span style="color: #ff6600;">Гастроэнтерит</span><br /></strong><em>gastro-</em> &mdash; желудок<br /><em>enter-</em> &mdash; кишечник<br /><em>-itis</em> &mdash; воспаление<br />&nbsp;<span style="color: #ff6600;">Значение: воспаление желудка и кишечника</span></h3>
+<h3 style="text-align: center;">◃───────────▹</h3>
+<h2 style="text-align: center;"><span style="color: #ff6600;"><strong>Значение терминоэлементов</strong></span></h2>
+<h3><span style="color: #ff6600;">Терминоэлементы позволяют:</span><br />Облегчить <strong>понимание</strong> медицинских терминов;<br /><strong>Систематизировать</strong> терминологию;<br />Создавать <strong>новые термины</strong> путём комбинации ТЭ.</h3>
+<h3 style="text-align: center;">◃───────────▹</h3>
+<h2 style="text-align: center;"><span style="color: #ff6600;"><strong>Особенности:</strong></span></h2>
+<h3>&nbsp; &nbsp;Один и тот же ТЭ может входить в состав <strong>разных терминов</strong>:<br /><em>nephr-</em> &rarr; <em>nephritis</em>, <em>nephrectomia</em>, <em>nephrologia<br /><br /></em>&nbsp; &nbsp;Некоторые ТЭ могут быть как латинского, так и греческого происхождения:<br /><em>ren-</em> (лат.) и <em>nephr-</em> (греч.) &mdash; оба значат "почка"</h3>
+<h3>&nbsp; &nbsp;Термины могут состоять из <strong>нескольких ТЭ</strong> &mdash; это называется <span style="color: #ff6600;"><strong>многокомпонентный термин</strong>.</span></h3>
+<h3 style="text-align: center;">◃───────────▹</h3>
+<h2 style="text-align: center;"><span style="color: #ff6600;">Синонимия в медицинской латинской терминологии</span></h2>
+<h3>Напоминаем - в медицинской терминологии часто встречаются <strong>синонимичные термины</strong>, где:<br />один термин образован из <strong>греческих терминоэлементов (ТЭ)</strong>;<br />другой &mdash; из <strong>латинских анатомических слов</strong>.</h3>
+<h3>Пример:<br /> <strong>nephritis</strong> &harr; <em>inflammatio renis</em> &mdash; <em>воспаление почки</em>.</h3>
+<h3 style="text-align: center;">◃───────────▹</h3>
+<h2 style="text-align: center;"><span style="color: #ff6600;">Примеры синонимичных пар</span></h2>
+<h3><span style="color: #ff6600;"><strong>nephritis</strong> </span>&mdash; <em>inflammatio renis<br /></em><span style="color: #ff6600;"><strong>cardiomegalia</strong> </span>&mdash; <em>hypertrophia cordis<br /></em><span style="color: #ff6600;"><strong>hepatomegalia</strong> </span>&mdash; <em>hypertrophia hepatis<br /></em><span style="color: #ff6600;"><strong>gastralgia</strong> </span>&mdash; <em>dolor&nbsp;gastris<br /></em><span style="color: #ff6600;"><strong>osteomalacia</strong> </span>&mdash; <em>mollities ossium<br /></em><span style="color: #ff6600;"><strong>encephalopathia</strong> </span>&mdash; <em>morbus cerebri<br /></em><span style="color: #ff6600;"><strong>myalgia</strong> </span>&mdash; <em>dolor musculi</em></h3>
+<h3 style="text-align: center;"><em>◃───────────▹</em></h3>
+<h2 style="text-align: center;">&nbsp;<span style="color: #ff6600;">Разница в употреблении</span></h2>
+<h3><strong><span style="color: #ff6600;">Происхождение</span><br /></strong>Греческие ТЭ &rarr; <em>nephr-, cardi-, hepat-</em>, и т.д.<br />Латинские анатомические слова &rarr; <em>ren, cor, hepar</em></h3>
+<h3><strong><span style="color: #ff6600;">Строение</span><br /></strong>ТЭ-термины = сложные слова (1&ndash;3 морфемы)<br />Анатомические термины = словосочетания</h3>
+<h3><strong><span style="color: #ff6600;">Сфера употребления</span><br /></strong>ТЭ-термины &rarr; клиническая практика, диагнозы, рецепты<br />Анатомические термины &rarr; анатомия, морфология, патологоанатомические заключения</h3>
+<h3><strong><span style="color: #ff6600;">Стиль</span><br /></strong>ТЭ-термины &rarr; краткие, унифицированные, интернациональные<br />Анатомические термины &rarr; описательные, академические</h3>
+<h3><strong><span style="color: #ff6600;">Форма</span><br /></strong>ТЭ-термины &rarr; удобны для записи в истории болезни<br />Анатомические термины &rarr; подходят для научных и учебных текстов</h3>
+<h3><strong><span style="color: #ff6600;">Уровень детализации</span><br /></strong>ТЭ-термины &rarr; отражают <strong>суть</strong> процесса<br />Анатомические термины &rarr; могут передавать <strong>локализацию</strong> и <strong>характер процесса</strong> подробнее</h3>
+<h3 style="text-align: center;">◃───────────▹</h3>
+<h2 style="text-align: center;"><span style="color: #ff6600;">Примеры контекста</span></h2>
+<h3><span style="color: #ff6600;"><strong>В диагнозе</strong>:</span><br /> <em>Hepatomegalia</em>, <em>Myalgia</em>, <em>Encephalopathia</em></h3>
+<h3><span style="color: #ff6600;"><strong>В анатомическом или патоморфологическом описании</strong>:</span><br /> <em>Hypertrophia hepatis</em>, <em>Dolor musculi</em>, <em>Morbus cerebri</em></h3>
+<h3 style="text-align: center;"><em>◃───────────▹</em></h3>
+<h2 style="text-align: center;">&nbsp;<span style="color: #ff6600;">Вывод</span></h2>
+<h3>&nbsp; &nbsp;Оба вида терминов <strong>равнозначны по значению</strong>, но <strong>различаются по цели, стилю и области применения</strong>.</h3>
+<h3>&nbsp; &nbsp;Для врача важно <strong>понимать и уметь использовать оба типа</strong> &mdash; в зависимости от контекста.</h3>
+<h3 style="text-align: center;">◃───────────▹</h3>
+<h2 style="text-align: center;"><span style="color: #ff6600;"><strong>&nbsp;</strong><strong>Заключение:</strong></span></h2>
+<h3 style="text-align: justify;">&nbsp; &nbsp;Понимание структуры терминоэлементов &mdash; ключ к быстрому освоению клинической латинской терминологии. Владение основными ТЭ помогает распознавать значение незнакомых терминов и правильно их использовать.</h3>
+<h3 style="text-align: center;">◃───────────▹</h3>
+<p>&nbsp;</p>

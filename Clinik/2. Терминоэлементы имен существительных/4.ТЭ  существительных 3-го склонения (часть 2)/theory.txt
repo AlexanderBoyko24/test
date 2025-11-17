@@ -1,0 +1,41 @@
+<h2 style="text-align: center;"><span style="color: #ff6600;"><strong>Греко-латинские дублеты имен существительных 3-го склонения</strong></span></h2>
+
+<h3><span style="color: #ff6600;"><strong>phren-</strong> &mdash; <em>mens, mentis, f</em> &mdash; ум</span><br /><em>phrenitis</em> = воспаление мозга<br /><em>mens sana</em> = здоровый ум</h3>
+
+<h3><span style="color: #ff6600;"><strong>angio-</strong> &mdash; <em>vas, vasis, n</em> &mdash; сосуд</span><br /><em>angiographia</em> = рентген сосудов<br /><em>vas sanguineum</em> = кровеносный сосуд</h3>
+
+<h3><span style="color: #ff6600;"><strong>paed-</strong> &mdash; <em>infans, ntis, m/f</em> &mdash; ребёнок</span><br /><em>paediatria</em> = педиатрия<br /><em>infans recens</em> = новорождённый</h3>
+
+<h3><span style="color: #ff6600;"><strong>phon- / -phonia</strong> &mdash; <em>vox, vocis, f</em> &mdash; голос</span><br /><em>dysphonia</em> = нарушение голоса<br /><em>vox humana</em> = человеческий голос</h3>
+
+<h3><span style="color: #ff6600;"><strong>phthisi-</strong> &mdash; <em>tuberculosis, is, f</em> &mdash; туберкулёз</span><br /><em>phthisis pulmonalis</em> = туберкулёз лёгких<br /><em>tuberculosis pulmonum</em> = туберкулёз лёгких</h3>
+
+<h3><span style="color: #ff6600;"><strong>cardi-</strong> &mdash; <em>cor, cordis, n</em> &mdash; сердце</span><br /><em>cardiologia</em> = наука о сердце<br /><em>cor dextrum</em> = правое сердце</h3>
+
+<h3><span style="color: #ff6600;"><strong>hepat-</strong> &mdash; <em>hepar, atis, n</em> &mdash; печень</span><br /><em>hepatitis</em> = воспаление печени<br /><em>hepar dextrum</em> = правая доля печени</h3>
+
+<h3><span style="color: #ff6600;"><strong>lapar-</strong> &mdash; <em>abdomen, inis, n</em> &mdash; живот</span><br /><em>laparotomia</em> = вскрытие живота<br /><em>abdomen anterius</em> = передняя стенка живота</h3>
+
+<h3><span style="color: #ff6600;"><strong>nephr-</strong> &mdash; <em>ren, renis, m</em> &mdash; почка</span><br /><em>nephritis</em> = воспаление почки<br /><em>ren dexter</em> = правая почка</h3>
+
+<h3><span style="color: #ff6600;"><strong>pyel-</strong> &mdash; <em>pelvis renalis, is, f</em> &mdash; почечная лоханка</span><br /><em>pyelonephritis</em> = воспаление лоханки и почки<br /><em>pelvis renalis sinistra</em> = левая почечная лоханка</h3>
+
+<h3><span style="color: #ff6600;"><strong>splen- / -splenia</strong> &mdash; <em>lien, lienis, m</em> &mdash; селезёнка</span><br /><em>splenectomia</em> = удаление селезёнки<br /><em>lien dexter</em> = правая селезёнка</h3>
+
+<h3><span style="color: #ff6600;"><strong>chole- / -cholia</strong> &mdash; <em>fel, fellis, n / bilis, is, f</em> &mdash; желчь</span><br /><em>cholecystitis</em> = воспаление желчного пузыря<br /><em>fel biliare</em> = желчь</h3>
+
+<h3><span style="color: #ff6600;"><strong>galact- / -galactia</strong> &mdash; <em>lac, lactis, n</em> &mdash; молоко</span><br /><em>galactorrhoea</em> = выделение молока<br /><em>lac maternum</em> = материнское молоко</h3>
+
+<h3><span style="color: #ff6600;"><strong>mening-</strong> &mdash; <em>meninx, ngis, f</em> &mdash; мозговая оболочка</span><br /><em>meningitis</em> = воспаление мозговой оболочки<br /><em>meninx pia</em> = мягкая оболочка мозга</h3>
+
+<h3><span style="color: #ff6600;"><strong>steth-</strong> &mdash; <em>pectus, oris, n</em> &mdash; грудь</span><br /><em>stethalgia</em> = боль в груди<br /><em>pectus thoracicum</em> = грудная клетка</h3>
+
+<h3><span style="color: #ff6600;"><strong>onych-</strong> &mdash; <em>unguis, unguis, m</em> &mdash; ноготь</span><br /><em>onychomycosis</em> = грибковое поражение ногтя<br /><em>unguis indicis</em> = ноготь указательного пальца</h3>
+
+<h3><span style="color: #ff6600;"><strong>laryng-</strong> &mdash; <em>larynx, laryngis, m</em> &mdash; гортань</span><br /><em>laryngitis</em> = воспаление гортани<br /><em>larynx humanus</em> = человеческая гортань</h3>
+
+<h3><span style="color: #ff6600;"><strong>pharyng-</strong> &mdash; <em>pharynx, pharyngis, m</em> &mdash; глотка</span><br /><em>pharyngitis</em> = воспаление глотки<br /><em>pharynx nasalis</em> = носоглотка</h3>
+
+<h3><span style="color: #ff6600;"><strong>epiglott-</strong> &mdash; <em>epiglottis, idis, f</em> &mdash; надгортанник</span><br /><em>epiglottitis</em> = воспаление надгортанника<br /><em>epiglottis cartilaginea</em> = хрящевая надгортанная пластинка</h3>
+
+<h3 style="text-align: center;">◃───────────▹</h3>

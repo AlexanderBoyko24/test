@@ -1,0 +1,18 @@
+<h2 style="text-align: center;"><span style="color: #ff6600;"><strong>КАЧЕСТВА (ЦВЕТ, ВНЕШНИЙ ВИД)</strong></span></h2>
+<h3><span style="color: #ff6600;"><strong>chlor-</strong> &mdash; <em>viridis, e</em> &mdash; зелёный</span><br /><em>&nbsp;hlorophyllum</em> = хлорофилл, зелёный пигмент</h3>
+<h3><span style="color: #ff6600;"><strong>chrom-, chromat-, -chromia</strong> &mdash; <em>coloratus, a, um</em> &mdash; окрашенный</span><br /><em>chromaticus</em> = окрашенный, цветной</h3>
+<h3><span style="color: #ff6600;"><strong>cyan-</strong> &mdash; <em>caeruleus, a, um</em> &mdash; синий</span><br /><em>cyanosis</em> = синюшность</h3>
+<h3><span style="color: #ff6600;"><strong>erythr-</strong> &mdash; <em>ruber, bra, brum</em> &mdash; красный</span><br /><em>erythrocytus</em> = красная кровяная клетка</h3>
+<h3><span style="color: #ff6600;"><strong>leuc-, leuko-</strong> &mdash; <em>albus, a, um</em> &mdash; белый</span><br /><em>leucocytus</em> = белая кровяная клетка</h3>
+<h3><span style="color: #ff6600;"><strong>melan-</strong> &mdash; <em>niger, gra, grum</em> &mdash; чёрный</span><br /><em>melanoma</em> = меланома, чёрная опухоль</h3>
+<h3><span style="color: #ff6600;"><strong>xanth-</strong> &mdash; <em>flavus, a, um</em> &mdash; жёлтый</span><br /><em>xanthoderma</em> = желтушность кожи</h3>
+<h3><span style="color: #ff6600;"><strong>glauc-</strong> &mdash; <em>glaucus, a, um</em> &mdash; голубовато-серый</span><br /><em>glaucophthalmia</em> = голубоватый оттенок глаз</h3>
+<h3><span style="color: #ff6600;"><strong>polio-</strong> &mdash; <em>griseus, a, um</em> &mdash; серый</span><br /><em>poliomyelitis</em> = серый мозг, полиомиелит</h3>
+<h3><span style="color: #ff6600;"><strong>porphyr-</strong> &mdash; <em>purpureus, a, um</em> &mdash; пурпурный</span><br /><em>porphyrinum</em> = пурпурный пигмент</h3>
+<h3><span style="color: #ff6600;"><strong>rhod-, eos-</strong> &mdash; <em>roseus, a, um</em> &mdash; розовый</span><br /><em>rhodopsinum</em> = розовый пигмент глаза</h3>
+<h3><span style="color: #ff6600;"><strong>argyr-</strong> &mdash; <em>argenteus, a, um</em> &mdash; серебристый</span><br /><em>argyrosis</em> = серебристое окрашивание ткани</h3>
+<h3><span style="color: #ff6600;"><strong>aur-, chryso-</strong> &mdash; <em>aureus, a, um</em> &mdash; золотой</span><br /><em>aureus</em> = золотой, aureus bacterium = золотистый стафилококк</h3>
+<h3><span style="color: #ff6600;"><strong>phae-, phaeo-</strong> &mdash; <em>fuscus, a, um</em> &mdash; тёмный, бурый</span><br /><em>phaeomelaninum</em> = тёмный пигмент кожи и волос</h3>
+<h3><span style="color: #ff6600;"><strong>livid-</strong> &mdash; <em>lividus, a, um</em> &mdash; синевато-серый</span><br /><em>lividitas</em> = синюшность кожи</h3>
+<h3 style="text-align: center;">◃───────────▹</h3>
+

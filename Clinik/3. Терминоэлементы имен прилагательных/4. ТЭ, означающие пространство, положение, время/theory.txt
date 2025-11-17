@@ -1,0 +1,10 @@
+<h2 style="text-align: center;"><span style="color: #ff6600;"><strong>ПРОСТРАНСТВО, ПОЛОЖЕНИЕ, ВРЕМЯ</strong></span></h2>
+<h3><span style="color: #ff6600;"><strong>orth(o)-</strong> &mdash; <em>rectus, a, um</em> &mdash; прямой</span><br /> <em>orthodontia</em> = исправление неправильного положения зубов</h3>
+<h3><span style="color: #ff6600;"><strong>neo-</strong> &mdash; <em>novus, a, um</em> &mdash; новый</span><br /> <em>neoplasma</em> = новообразование, опухоль</h3>
+<h3><span style="color: #ff6600;"><strong>xeno-</strong> &mdash; <em>alienus, a, um</em> &mdash; чужой</span><br /> <em>xenograft</em> = пересадка ткани от особи другого вида</h3>
+<h3><span style="color: #ff6600;"><strong>meso-</strong> &mdash; <em>medius, a, um</em> &mdash; средний</span><br /> <em>mesoderma</em> = средний зародышевый листок</h3>
+<h3><span style="color: #ff6600;"><strong>&nbsp;opisth-</strong> &mdash; <em>posterior, ius</em> &mdash; задний</span><br />&nbsp;opisthotonus = выгибание тела назад</h3>
+<h3>&nbsp;<span style="color: #ff6600;"><strong>crypto-</strong> &mdash; <em>occultus, a, um</em> &mdash; скрытый</span><br /> <em>cryptorchismus</em> = скрытое расположение яичка</h3>
+<h3><span style="color: #ff6600;"><strong>endo-, ento-</strong> &mdash; <em>internus, a, um</em> &mdash; внутренний</span><br /> <em>endocardium</em> = внутренняя оболочка сердца</h3>
+<h3><span style="color: #ff6600;"><strong>exo-, ecto-</strong> &mdash; <em>externus, a, um</em> &mdash; наружный</span><br /> <em>exocrinus</em> = внешнесекреторный (о железах)</h3>
+<h3 style="text-align: center;">◃───────────▹</h3>
